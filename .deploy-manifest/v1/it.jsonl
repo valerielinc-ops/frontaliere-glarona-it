@@ -1,6 +1,6 @@
 {"type":"header","manifestVersion":3,"format":"jsonl","locale":"it"}
 {"type":"kind","kind":"active-job","templateVersion":"active-job@1","sourceVersion":"input@1","state":"live"}
-{"path":"cerca-lavoro-glarona/agente-di-credito-m-f-d-raiffeisen-nafels/","hash":"7f7e087cc66a9d50a26c58dbdc856b98dacc4230ca1ee7da9f63e581ff55e511"}
+{"path":"cerca-lavoro-glarona/agente-di-credito-m-f-d-raiffeisen-nafels/","hash":"b677430ff30926ee1a639a3b047d8483283ccd414d637bc7e833d7b394848fa9"}
 {"path":"cerca-lavoro-glarona/agente-nell-acquisto-e-nella-logistica-kantonsspital-glarus-ksgl-glarus/","hash":"d80da45a8d3916e3d2a031a5f2f0bc1749cca3eaf4cf5c41fc258724a7fbe3cc"}
 {"path":"cerca-lavoro-glarona/apprendistato-come-addetto-a-al-commercio-al-dettaglio-cfc-die-schweizerische-post-glarus/","hash":"9ee0b0e6f032c63cc2bf729f45fc43fdf9b6566c66577fa2d34f3471742d1576"}
 {"path":"cerca-lavoro-glarona/apprendistato-come-cuoco-cuoco-efz-kantonsspital-glarus-ksgl-glarus/","hash":"701b6ff25a21239aa5dee38009503b67da04552708e60ae5f6dea9cf89d6fde1"}
@@ -515,7 +515,7 @@
 {"path":"cerca-lavoro-glarona/confiseur-per-la-produzione-live-presso-il-house-of-laderach-60-100-m-f-d-laderach-schweiz-ag-bilten","hash":"a76cdcc50ac9fad1d0872a70da17b9032db9d61960c20f0be71d8a2f156a0e78"}
 {"path":"cerca-lavoro-glarona/conseiller-en-nutrition-kantonsspital-glarus-ksgl-glarus","hash":"ade7c18849008f590b3d47d2b6fc4fea09b6b3dd3e097c0192f151586a948fe9"}
 {"path":"cerca-lavoro-glarona/consulente-nutrizionale-kantonsspital-glarus-ksgl-glarus","hash":"d2427e31ddf77bef33c3ed6eeb11e604c000818b64f1d1f50557aa6be06a516b"}
-{"path":"cerca-lavoro-glarona/credit-officer-w-m-d-raiffeisen-nafels","hash":"6b95c76bf5d649e37cec3649b42ec9b2296dac9325505d576ef390524e9cad13"}
+{"path":"cerca-lavoro-glarona/credit-officer-w-m-d-raiffeisen-nafels","hash":"8a1d7e1758a6a936dfbef2ae7f1696f0a2ffff0a11ebd08ae9bbd8428bf831af"}
 {"path":"cerca-lavoro-glarona/cv-teaching-centre-efz-2027-w-m-d-laderach-schweiz-ag-bilten","hash":"93cea8da2ba49e6ae11e7d13971a7505ae6c8809def748ec803bf493d68d75a2"}
 {"path":"cerca-lavoro-glarona/data-center-technician-glarus-on-site-reboot-monkey-glarus","hash":"d4ad3db4337117e6b8c4f295b6ca1dad9bc9af779b04db977a0422800e698c2e"}
 {"path":"cerca-lavoro-glarona/data-center-technician-glarus-on-site-reboot-monkey-glarus-2","hash":"c0a34abfc5cb6f584f713fcf92c560aa9bc0178c36160ad610d6f79ffac4e624"}
@@ -691,7 +691,7 @@
 {"path":"cerca-lavoro-glarona/ricerca-architettura-bilten/","hash":"dd7319125e743edeb1593edb3f807e298c8e9f3e6ba3c3b6db908ab598e2a411"}
 {"path":"cerca-lavoro-glarona/ricerca-arztinnen-bern/","hash":"3a4f2dfb6eec87f9e1ab67f41190fd71cda4ead471b8cb19047dc128422155a8"}
 {"path":"cerca-lavoro-glarona/ricerca-assicurate-glarus/","hash":"474b60e280452e3d6cd668dd7a105e23a4795bf71963e7fc3bcbcc11889faa2e"}
-{"path":"cerca-lavoro-glarona/ricerca-assistente-medico-a-100-klinik-gut-ag/","hash":"4c5bb32d7ad465681a01e0e062584a6651484e9f9926719085f76fe9cc9aff26"}
+{"path":"cerca-lavoro-glarona/ricerca-assistente-medico-a-100-klinik-gut-ag/","hash":"44474fc83798752803da65d804d13d04109d8d4aea811d5d6b6d44e34d48e152"}
 {"path":"cerca-lavoro-glarona/ricerca-assistente-medico-in-cardiologia-kantonsspital-glarus-ksgl/","hash":"e4bd710c80514e596652ed60675490ead9004fa3be005acdb9999cd15b4f0b20"}
 {"path":"cerca-lavoro-glarona/ricerca-assistente-vendite-a-40-glarus-nord/","hash":"fb16d547f445b6da207c99a7e912310436d47b14b7de613df9bf1fbb24649c6a"}
 {"path":"cerca-lavoro-glarona/ricerca-assistenza-glarus/","hash":"11155de7870128e49a12f2a0453d0b5872e489c54b30145bf4b7769fe159c7be"}
@@ -717,7 +717,7 @@
 {"path":"cerca-lavoro-glarona/ricerca-complesso-glarus/","hash":"73bb1dcd5cdf128717b7827f3c3721cb410a93881b37e082c58d9c02722e6f0d"}
 {"path":"cerca-lavoro-glarona/ricerca-condizioni-glarus/","hash":"eb22e8b5cc311874708d780c1b52cd5216c5711dfcb9c37b665bf95701eff81f"}
 {"path":"cerca-lavoro-glarona/ricerca-confiseur-per-live-bilten/","hash":"a7c490c587138f081e89a3bb9dc241646bef4d6585f53a89ec85b100ab88f0a2"}
-{"path":"cerca-lavoro-glarona/ricerca-confiseur-per-live-laderach-schweiz-ag/","hash":"f89bb126d25c17a95d3d3065293cbe15b6561bc0e0c4c81c8c5fecc834ea619f"}
+{"path":"cerca-lavoro-glarona/ricerca-confiseur-per-live-laderach-schweiz-ag/","hash":"3339e3fe743707c039ca87184d7ae40316c1185a39a55ec1dd858fc6274d552a"}
 {"path":"cerca-lavoro-glarona/ricerca-consegna-bilten/","hash":"651a3af99394479d5958b3a8455ba8a114865d69b748862f266554bbd33d4958"}
 {"path":"cerca-lavoro-glarona/ricerca-consegna-ennenda/","hash":"9365f8c0a8270f86f1a18331defea45f1a9152ef713802dcc9e044a124c06d81"}
 {"path":"cerca-lavoro-glarona/ricerca-consulente-nutrizionale-glarus/","hash":"061d57a0166f75ca04ff1dabaf34707cf84dda20b0c23ffdcc18b04ea9b83dda"}
@@ -729,8 +729,8 @@
 {"path":"cerca-lavoro-glarona/ricerca-controllo-bilten/","hash":"a8b5ee961e2060bc1d7471fb00a16b47d8e12eb2875b38583e32779fb9edce56"}
 {"path":"cerca-lavoro-glarona/ricerca-coop-glarus/","hash":"52cfef9d7d513b9080f77a855e6435e350e621260c5986a0c94d863b15080960"}
 {"path":"cerca-lavoro-glarona/ricerca-cooperazione-glarus/","hash":"dfb70784142f415b163a2336ef77f62863e9d5f289de0c00bf88c3c628430e15"}
-{"path":"cerca-lavoro-glarona/ricerca-corporate-risorse-umane-process-specialista-ticino/","hash":"96718297b9c7454e652d9e34807103423e6691cc8fde7ffa4ea596da54841714"}
-{"path":"cerca-lavoro-glarona/ricerca-corporate-risorse-umane-process-specialista/","hash":"c32670d0ac6e90dd006df7a6b5c844da9ab5ae95ba266a65c587d70003add1db"}
+{"path":"cerca-lavoro-glarona/ricerca-corporate-risorse-umane-process-specialista-ticino/","hash":"782f3f83a70846d57ea2f29ba8bb9a8e8ea4a2c2bb614fb5d2d70e13b2615e97"}
+{"path":"cerca-lavoro-glarona/ricerca-corporate-risorse-umane-process-specialista/","hash":"cc1ae346eb0c3e75006b951f233df204ddbbf46ff3d7c067c9a660ab9be1549f"}
 {"path":"cerca-lavoro-glarona/ricerca-corsi-glarus/","hash":"37860f0c667229f78fa5ddaa189a12307f1b2198634671993ea6afeb271e7546"}
 {"path":"cerca-lavoro-glarona/ricerca-creazione-glarus/","hash":"9c2088450c5e4d97f8a79080869225e75b32b19dca7264ccc33f6b80ed8408ec"}
 {"path":"cerca-lavoro-glarona/ricerca-cucina-dietetica-cucina-dietetica-kantonsspital-winterthur-ksw/","hash":"2e3690151523b944541c42b75c76df99833739e294739c19cc03d3f288d20238"}
@@ -747,16 +747,16 @@
 {"path":"cerca-lavoro-glarona/ricerca-dinamico-glarus/","hash":"a4019c6785c828d83af4287a4c61bec6f360221ee5d2f60be1c56523b71d081c"}
 {"path":"cerca-lavoro-glarona/ricerca-dipendente-intralogistico/","hash":"3001b15fdfd4715a145b3efacb5c483f5d9a76196ea4281aca28d1e2192c33cb"}
 {"path":"cerca-lavoro-glarona/ricerca-dipl-analista-biomedico-hf-kantonsspital-glarus-ksgl/","hash":"6669665f490d665c84862955e2e1e3548c7a4a68d059fafcf676033c0d1ce21a"}
-{"path":"cerca-lavoro-glarona/ricerca-dipl-assistenza-intensiva-esperta-o-esperta-nds-hf/","hash":"0c84f80cdc91dde0916420b3fc7a9f389c8c648e3af6ce7a549a6d698e765129"}
-{"path":"cerca-lavoro-glarona/ricerca-dipl-assistenza-intensiva-esperto-nds-hf-a/","hash":"2ea433a0cc0029c7d8133be797e3be42c60091344d3524c9dbdd846316c24130"}
-{"path":"cerca-lavoro-glarona/ricerca-dipl-assistenza-intensiva-per-esperti-nds-hf-glarus/","hash":"44f89432f7160e4f18de5094db0829a3dcc507028985c053cc99fb556360d813"}
-{"path":"cerca-lavoro-glarona/ricerca-dipl-assistenza-intensiva-per-esperti-nds-hf/","hash":"040395077e601eb8bd152cd4a617d3e8ac908b2d32be57b3f472ef3d26aa4f3e"}
+{"path":"cerca-lavoro-glarona/ricerca-dipl-assistenza-intensiva-esperta-o-esperta-nds-hf/","hash":"06d5627627c4da2f545b140facab96917951c1b7a40f72a56e7400114ca8b923"}
+{"path":"cerca-lavoro-glarona/ricerca-dipl-assistenza-intensiva-esperto-nds-hf-a/","hash":"74b5789fd7a3b8bfec5c426d04bf5c990831852f9325a4be6b87e65aef0fb695"}
+{"path":"cerca-lavoro-glarona/ricerca-dipl-assistenza-intensiva-per-esperti-nds-hf-glarus/","hash":"ed05e8a2bb7c2cde18b1049aca384eb9db86d329e4e562f0c08e508de45b50cd"}
+{"path":"cerca-lavoro-glarona/ricerca-dipl-assistenza-intensiva-per-esperti-nds-hf/","hash":"517fc31f29c26def587a036b4c5b75728f92a1950e8be4835b791b0b2814d306"}
 {"path":"cerca-lavoro-glarona/ricerca-dipl-expert-expert-anesthesia-care-nds-hf-glarus/","hash":"9b5332ed95efed6c261f20a265c366cd7e4f9cb6855a96549b6a33c01f1fd37f"}
 {"path":"cerca-lavoro-glarona/ricerca-dipl-infermiere-r-oncologia-kantonsspital-glarus-ksgl/","hash":"509a2b3e713b99fe63faaf38ff3853dd79af0c52e97a5cd365820091e49e143a"}
 {"path":"cerca-lavoro-glarona/ricerca-dipl-nds-intensive-care-expert-m-f-d-herisau/","hash":"19870f71b06596d3a7bfbe81373032fca854f292040dec842f9840e590f67765"}
 {"path":"cerca-lavoro-glarona/ricerca-dipl-nds-intensive-care-expert-m-f-d/","hash":"9782c9814663cbee64c1f267ac5b8816ae9a5ff0afe3876ce46256a9cd0d02db"}
 {"path":"cerca-lavoro-glarona/ricerca-dipl-pflegefachfrau-mann-hf-fh-a1-e-e1/","hash":"10aede42e4ffee483b62d837c5c1ed0645434d95e41fdf2e2909712adb95bdef"}
-{"path":"cerca-lavoro-glarona/ricerca-diploma-esperto-di-terapia-intensiva-nds-hf-glarus/","hash":"418297c4091c69f8145f95153f3f8fd335efe3cb7ef1b6a46202e82b5f61f8ad"}
+{"path":"cerca-lavoro-glarona/ricerca-diploma-esperto-di-terapia-intensiva-nds-hf-glarus/","hash":"4db5638040883666fdf27054cd2c7320458d000fbdf8c8c6cf52b66d5d98e449"}
 {"path":"cerca-lavoro-glarona/ricerca-diplomata-infermiere-ore-hf-fh-chirurgia-kantonsspital-glarus-ksgl/","hash":"5d66b5bcf0b499e28579ee9d6b730f8024f053ec3977c1e2a18cf863681575e9"}
 {"path":"cerca-lavoro-glarona/ricerca-dirigenti-di-vendita-junior-glarus/","hash":"e6f2e01d5fe0a01eec01f08c2077738db13dec2d7fae5295284e4e69469276bb"}
 {"path":"cerca-lavoro-glarona/ricerca-dottorato-in-economia-e-politica-agricola-gruppo/","hash":"e5e0d2e763a37bd1af8a4ecb8a361ecb4ffc4f8936008041587dc89a52a7d066"}
@@ -764,12 +764,12 @@
 {"path":"cerca-lavoro-glarona/ricerca-eccellenza-della-catena-di-fornitura/","hash":"8323a9a896de7bd0bdb1f1076051eef86178580e80837c1a5b955b4ecb467352"}
 {"path":"cerca-lavoro-glarona/ricerca-emergenza-glarus/","hash":"e2648219cdc13939656b24b0867a46f50fd1a54f246debb0328c08ec38af1ac4"}
 {"path":"cerca-lavoro-glarona/ricerca-entertainer-per-live-bilten/","hash":"2324e687b953e1cf6febbb32ca4665ca26631d625f3df8db8a4535daa7d7f0e8"}
-{"path":"cerca-lavoro-glarona/ricerca-entertainer-per-live-laderach-schweiz-ag/","hash":"8790c289ad0e2a10a39326385dc84be7e2cabf8676ea849feb739c286044efe4"}
+{"path":"cerca-lavoro-glarona/ricerca-entertainer-per-live-laderach-schweiz-ag/","hash":"d34860cf26859bee21ef50bed9b4af7b9a7b562ad4e2757874f1c3ff931b87c0"}
 {"path":"cerca-lavoro-glarona/ricerca-eseguire-glarus/","hash":"cdf0f89eb6668ea2edb9f0538d55d291275024f1a9a2f8556e485f3dbd0c1fe1"}
 {"path":"cerca-lavoro-glarona/ricerca-eseguire-linthal/","hash":"2d839fea19deb80a66aab9e7fe444c8cb8eb2ee33b815c3c5ffa0dd1afc8f943"}
 {"path":"cerca-lavoro-glarona/ricerca-esperto-glarus/","hash":"57987fd9ad79b7520ca290799fcaceff7e7ba41641f997ede7df18efd2813993"}
 {"path":"cerca-lavoro-glarona/ricerca-esterni-bilten/","hash":"10d896e7b9b4f7a098132f24ee9e9af3f28840591f8039397bd81a4b06ba2429"}
-{"path":"cerca-lavoro-glarona/ricerca-fachfrau-mann-apotheke-pharma-kantonsspital-glarus-ksgl/","hash":"ff76a9576f5f77a4e5d3535293fb178e0247ba25cc10a63cd462a299d83afadb"}
+{"path":"cerca-lavoro-glarona/ricerca-fachfrau-mann-apotheke-pharma-kantonsspital-glarus-ksgl/","hash":"2912e23b96d2c440a65068ee3540d88d8d7556d24d07566780b0cce74f7b1ab6"}
 {"path":"cerca-lavoro-glarona/ricerca-farmaci-glarus/","hash":"c5e127c4b5aaa8160ff91e3a386af14e800a8d092c786a5a9d0a5e838fcda444"}
 {"path":"cerca-lavoro-glarona/ricerca-farmacia-glarus/","hash":"05ffe4d9ef77feef5708611f983ca7e443dbd6014a530ce866008d83293d1aaa"}
 {"path":"cerca-lavoro-glarona/ricerca-farmacista-glarus/","hash":"b10a172e1c736b2ae0450f317470db339e8b7192b4ea6fe4b47ef0e2125b38b2"}
@@ -866,10 +866,10 @@
 {"path":"cerca-lavoro-glarona/ricerca-nutrizionista-in-bsc-a/","hash":"be4508afb630eb027f1b141f2636460fed9f6f07199329ab27fec4f323bd0d8a"}
 {"path":"cerca-lavoro-glarona/ricerca-offerte-lavoro-assistenzarzt/","hash":"8f89c7d26ff48f785a5f1398b16654f7b1a6c4b2f4b7a4c065bfc0fd8dea73dd"}
 {"path":"cerca-lavoro-glarona/ricerca-offerte-lavoro-assistenzarzte/","hash":"ccf66b16b135c82741d7c0895ab47b9e7a55fcc5f4b3e4f8fd08368a95859277"}
-{"path":"cerca-lavoro-glarona/ricerca-offerte-lavoro-corporate-risorse-umane-process-specialista/","hash":"57d1bd0075fd57ed5207f0db124dcdfb7ca133c5fd95776a9a106f30632f217d"}
+{"path":"cerca-lavoro-glarona/ricerca-offerte-lavoro-corporate-risorse-umane-process-specialista/","hash":"61400fb8ec311f1c666792201400915e24fe5f5989d3de60ad3decaa2c7e908b"}
 {"path":"cerca-lavoro-glarona/ricerca-offerte-lavoro-eccellenza-della-catena-di-fornitura/","hash":"f8ebb0744dab2ba5be41f576cebeddd0ee6aec11fda06f35220eaca4675edbb3"}
 {"path":"cerca-lavoro-glarona/ricerca-offerte-lavoro-heizungsinstallateur-in-80/","hash":"84a523f9c72febc5fa9448aa787d81271d50bdf667a8b0d69c70b1e768c02b52"}
-{"path":"cerca-lavoro-glarona/ricerca-offerte-lavoro-ingegnere-meccanico/","hash":"2072c90866b942854c3aad9f6f85cf55da8407b6068dcb9095aeab66d7fe8bfe"}
+{"path":"cerca-lavoro-glarona/ricerca-offerte-lavoro-ingegnere-meccanico/","hash":"e014af35ea59b6e7f4165d8df86c1688037685e9e8f17cd15cc0fef619361adf"}
 {"path":"cerca-lavoro-glarona/ricerca-offerte-lavoro-junior-retail-marketing-manager-80/","hash":"1eaaed7c11a9157252c1be0445ae7fb8ab20e673673bcae9186169b78e319c61"}
 {"path":"cerca-lavoro-glarona/ricerca-offerte-lavoro-medico-specialista-in-endocrinologia-f-h/","hash":"891645b5dcca639ab2caf20780057762cf44066f552fb5865bdeb5ca1de09ecb"}
 {"path":"cerca-lavoro-glarona/ricerca-offerte-lavoro-procurement-capo-team-80/","hash":"4dd42d6c4abefefa98fb4d7741ea717517a65300fe70650b11c6b44c52427dce"}
@@ -877,7 +877,7 @@
 {"path":"cerca-lavoro-glarona/ricerca-offerte-lavoro-specialista-in-endocrinologia-m-f-d/","hash":"e986eb276326a81cbc0aabf303db004c32d4036ae300cc2b1bf56e7748d947a3"}
 {"path":"cerca-lavoro-glarona/ricerca-offerte-lavoro-stage-in-talent-acquisition/","hash":"a7d9a146f639bb70d1ba383c17a1925dafc68d1cf1794fa1a26abd48c4c3301c"}
 {"path":"cerca-lavoro-glarona/ricerca-offerte-lavoro-strategic-buyer/","hash":"559a5d8899800b01414f6e3ce21a3fa2817d4101b8225e187faed074ab620c83"}
-{"path":"cerca-lavoro-glarona/ricerca-offerte-lavoro-studente-esperto-anestesia-nds-hf/","hash":"e8f70a41890a32cc4640005479a788d0177e520d075b6d20ce17d0af28280a56"}
+{"path":"cerca-lavoro-glarona/ricerca-offerte-lavoro-studente-esperto-anestesia-nds-hf/","hash":"96260df0a68c25d33c83dde83eb7bc2e59211a1b9cff0a900cc3f077d3537956"}
 {"path":"cerca-lavoro-glarona/ricerca-operations-glarus/","hash":"687157cb590f3634cf0f68fee9ed6b96256169361f841861d2dbbfc5a75e0898"}
 {"path":"cerca-lavoro-glarona/ricerca-operatoria-glarus/","hash":"ec073e7e73e2491d0fb253c5b8b93be4dbbf3c51639fe53a792c3c5e0a1a8c04"}
 {"path":"cerca-lavoro-glarona/ricerca-operazioni-glarus/","hash":"e58bcc44c83fc735fba207ea7a79fde0b28f2e7a70dad3ce99c01de830987bfc"}
@@ -932,7 +932,7 @@
 {"path":"cerca-lavoro-glarona/ricerca-reboot-monkey-linthal/","hash":"286cb9489586377cc8982437070f23a722e6266f3fcf359b997bcc986943d700"}
 {"path":"cerca-lavoro-glarona/ricerca-redattore-redattrice-80-somedia-ag/","hash":"0bbfab055ec7beaa6ea23bb758ae6ea2873340d42eda3db115309ff51c51c698"}
 {"path":"cerca-lavoro-glarona/ricerca-responsabile-bilten/","hash":"0da40a49ee22def4eeb878f969069655f4072fef22e14e7694003beac7394dfd"}
-{"path":"cerca-lavoro-glarona/ricerca-responsabile-corporate-risorse-umane-services-w-m-d-glarus/","hash":"5904731d3eeb93df7dc82cc37300d8a06da7e8adfd550bfa6eb9e925d58dac4d"}
+{"path":"cerca-lavoro-glarona/ricerca-responsabile-corporate-risorse-umane-services-w-m-d-glarus/","hash":"68d5c98bd0d11438ad1b1d1f403d9b432dc58470a4353f8a16f7b1b61883729b"}
 {"path":"cerca-lavoro-glarona/ricerca-responsabile-della-sicurezza-100-glarus/","hash":"60d35e6059fa9abf5f95beb4f3fc22335e456b7ec8dbebfbebc3d4651b076cd2"}
 {"path":"cerca-lavoro-glarona/ricerca-responsabile-della-sicurezza-100-laderach-schweiz-ag/","hash":"1e52f97b84fc3f81b21e9bb15289cec29f53d9b6871b82eeefefc67631b1493d"}
 {"path":"cerca-lavoro-glarona/ricerca-responsabile-ennenda/","hash":"e3af58fb401e58ddfcf0105aea227d8e3aba91d33ea197911cdec8c4918d0319"}
@@ -979,7 +979,7 @@
 {"path":"cerca-lavoro-glarona/ricerca-stampa-glarus/","hash":"89e027dca4265837387da556a799148f49a5cc68fdfb3bc66cc4a888cccd3ade"}
 {"path":"cerca-lavoro-glarona/ricerca-stipendio-assistenzarzt-svizzera/","hash":"c2ce9d76d1d0e2e0286f6a8bde427ed250889cf6b5048a639039f757e1011445"}
 {"path":"cerca-lavoro-glarona/ricerca-stipendio-assistenzarzte-svizzera/","hash":"05b9ee143b18c8997dede5c3aba2f94edbf59c8f56dec2009f606c87eac1c8e1"}
-{"path":"cerca-lavoro-glarona/ricerca-stipendio-corporate-risorse-umane-process-specialista-svizzera/","hash":"4a02a1420aef4072c54e43171a611d6caf0572bf450ceea6d25ad34112937841"}
+{"path":"cerca-lavoro-glarona/ricerca-stipendio-corporate-risorse-umane-process-specialista-svizzera/","hash":"c78cfa8f60cf8b739c25381efa4354ddd1e6f9c6efeb886e33c84fb0d735fa61"}
 {"path":"cerca-lavoro-glarona/ricerca-stipendio-eccellenza-della-catena-di-fornitura-svizzera/","hash":"35183df78fdf244d312143752021c0f9c811086b943b4a331774ecc475e7b159"}
 {"path":"cerca-lavoro-glarona/ricerca-stipendio-heizungsinstallateur-in-80-svizzera/","hash":"bbd1840c857cea8fb1b522deb7cd072783f6399485878d19906a901a15a924ff"}
 {"path":"cerca-lavoro-glarona/ricerca-stipendio-junior-retail-marketing-manager-80-svizzera/","hash":"eca767ede32459c0dfa9d68915003e4a7927f4267e0869cfbc8e6b99b21907cf"}
@@ -989,20 +989,20 @@
 {"path":"cerca-lavoro-glarona/ricerca-stipendio-specialista-in-endocrinologia-m-f-d-svizzera/","hash":"daa98963ed9712ccea59f5605f9c543ecc9f2be3b15bf645b82a1b41512d1b5c"}
 {"path":"cerca-lavoro-glarona/ricerca-stipendio-stage-in-talent-acquisition-svizzera/","hash":"b9fe0be42a08396c26d68dc6bdb3cdbc867f5900fbf5d0dc83938f2b415c736e"}
 {"path":"cerca-lavoro-glarona/ricerca-stipendio-strategic-buyer-svizzera/","hash":"dd0b46660fa2302ff9136ce8331e48de6b764b1680d82ee161e141efc719ce5f"}
-{"path":"cerca-lavoro-glarona/ricerca-stipendio-studente-esperto-anestesia-nds-hf-svizzera/","hash":"b50f37dd9996637afd675a3477755c4bdbc51ed47b69cb397ce817da31fbdc56"}
+{"path":"cerca-lavoro-glarona/ricerca-stipendio-studente-esperto-anestesia-nds-hf-svizzera/","hash":"1ed373435c68762b3c70b96d18bfa2a993aa5ca7129ac0374c414a95cbc763e7"}
 {"path":"cerca-lavoro-glarona/ricerca-store-glarus/","hash":"a27c68004759bee15be5b496d26fac9abe1170adee7236c118749e3349e32979"}
 {"path":"cerca-lavoro-glarona/ricerca-strategic-buyer/","hash":"7b12222112410c9fb7a521a28b9a0f0521051564be19e80319e10f6d6cb66f7c"}
 {"path":"cerca-lavoro-glarona/ricerca-strategici-bilten/","hash":"b930876e75f7c3665a412f4d69e2088a9b70e65f2a19656dea0de68f8f0c0728"}
-{"path":"cerca-lavoro-glarona/ricerca-studente-esperto-anestesia-nds-hf/","hash":"adba93076e24540241b9fa68ac86e8760b5085a9ce9d55d07fb97f492ba40e55"}
+{"path":"cerca-lavoro-glarona/ricerca-studente-esperto-anestesia-nds-hf/","hash":"e337b04c822baebab08df93b6171e638508c2ba4699169f1d79af20f5e08aaa9"}
 {"path":"cerca-lavoro-glarona/ricerca-studenti-glarus/","hash":"7fa7cc9d6692a5e03314b30294079bbd6ae651f45ad0f5aa4a90e41d0bd3830d"}
-{"path":"cerca-lavoro-glarona/ricerca-studenti-r-esperto-nella-cura-dell-anestesia-nds-hf/","hash":"c7b8e105a9d39f120cf7133065d36c8e0405b0a426c16226ecb68f7f68a61759"}
+{"path":"cerca-lavoro-glarona/ricerca-studenti-r-esperto-nella-cura-dell-anestesia-nds-hf/","hash":"f35ac6aa0efb1a627510325dc1c7dabdd86755e31b1681b38d854f24cf46d0d2"}
 {"path":"cerca-lavoro-glarona/ricerca-studenti-tecnica-chirurgica-hf-munsterlingen/","hash":"97267df8268bb8e33e0c0b4055b08ec0db38c50802f6e0a5474792ce977d55b2"}
 {"path":"cerca-lavoro-glarona/ricerca-studenti-tecnica-chirurgica-hf/","hash":"71d4dbb14e81caadf2a358fed5764fba265cd820f2b9e7ac9560a756a690fb48"}
 {"path":"cerca-lavoro-glarona/ricerca-studentinnen-e-studenten-per-psychiatrische-1-1-betreuung-m-w-d/","hash":"7fe9377536afee9e0a6637a774590ee99577634b9eb32c3acb1eb1dac37588f1"}
 {"path":"cerca-lavoro-glarona/ricerca-studi-glarus/","hash":"2b8ecd90699671638bde67ebcd0293cdc03f7934a978a99d1d9ac610959c15ec"}
 {"path":"cerca-lavoro-glarona/ricerca-successo-bilten/","hash":"f431fa8fc5694240465ae3524fadf88bab3f9c0f7c08ae08eb9aa05fbfbd4f38"}
 {"path":"cerca-lavoro-glarona/ricerca-sull-glarus/","hash":"c8e401c932da2eac201afc523ab217a30dfd8290580626fde340a739ac84c21d"}
-{"path":"cerca-lavoro-glarona/ricerca-teamleiter-assemblaggio-100-w-m-d-laderach-schweiz-ag/","hash":"fbd45fb4d8931ad309ebe52414e6ec17c8ae15e4a0694569f49fd896cbb962a3"}
+{"path":"cerca-lavoro-glarona/ricerca-teamleiter-assemblaggio-100-w-m-d-laderach-schweiz-ag/","hash":"f4ce20f788e087cfb65abd1e8906b9e2b6c5d7eb1df57a96f9a43d6db6f096f5"}
 {"path":"cerca-lavoro-glarona/ricerca-tecnica-bilten/","hash":"639419b07a4cda68bc9be00c2383920588c7b63967ebdce9e293da6d57bff90d"}
 {"path":"cerca-lavoro-glarona/ricerca-tecnica-it-architetto-bilten/","hash":"aa5c716b77a7bd90d6b232c50f66a69ab86583eecd7c1023d8136cd8d2d5cbf8"}
 {"path":"cerca-lavoro-glarona/ricerca-tecnica-it-architetto-laderach-schweiz-ag/","hash":"606dffd16583b987874dbe2d26e2f796e7c83865420c27a721911714adbc9147"}
@@ -1076,10 +1076,10 @@
 {"path":"cerca-lavoro-glarona/addetto-a-alla-logistica-onlineshop-jumbo-arbon-thurgau-khdms4/","hash":"188c503709f3d5ba40451e353e6f02bba02f430007925ad6906a08ab627ad5d0"}
 {"path":"cerca-lavoro-glarona/addetto-a-alla-ristorazione-efz-circa-50-tertianum-basel/","hash":"2aeb517e0239805919ac3bf21e943e4d7f71a575f010c499b012b7ec52209218"}
 {"path":"cerca-lavoro-glarona/addetto-a-alla-ristorazione-viva-luzern-luzern/","hash":"e667cb5e16f4e71cd2f2cc006f7ab3df499b11f3177d98b94e204914b8b29395"}
-{"path":"cerca-lavoro-glarona/addetto-a-alla-vendita-food-coop-genossenschaft-baar/","hash":"a03bf7dbfe349549b5d3e1c9c5407f3b13dd68e912f30e07d9b093c6c0c63b0c"}
+{"path":"cerca-lavoro-glarona/addetto-a-alla-vendita-food-coop-genossenschaft-baar/","hash":"fd8dc66799a8dc77cef7e1fa5d4004ae71cb905910dea56b80f22c7ec99095ff"}
 {"path":"cerca-lavoro-glarona/addetto-a-alla-vendita-food-coop-genossenschaft-killwangen/","hash":"654a84c9bd8d38601e6cccbfae588ab6e35fe5449295c67938bea4add71b5c51"}
-{"path":"cerca-lavoro-glarona/addetto-a-alla-vendita-food-coop-genossenschaft-reichenburg/","hash":"e38a25685195fe46c86626526d5819acff26621238bee0c3d75527073468ac38"}
-{"path":"cerca-lavoro-glarona/addetto-a-alla-vendita-prodotti-freschi-coop-genossenschaft-berikon/","hash":"9b5d983969a31f2d7c77cad96f77b65ef6f659d96205be0be6307b521c59f6fa"}
+{"path":"cerca-lavoro-glarona/addetto-a-alla-vendita-food-coop-genossenschaft-reichenburg/","hash":"26dae77d3fcc6c011f0b045cd225b6e058de627adda7c98e55e502c3568ffb4e"}
+{"path":"cerca-lavoro-glarona/addetto-a-alla-vendita-prodotti-freschi-coop-genossenschaft-berikon/","hash":"eae71375b032ee8ac5c7d413b95e5989e92805193d92414423c3ba2014a8bfe9"}
 {"path":"cerca-lavoro-glarona/addetto-a-alla-vendita-prodotti-freschi-incl-produzione-coop-genossenschaft-herzogenbuchsee/","hash":"33292e595133051e1b1f2df6b47136aeebc9a6eeaae5ca2b86f002e0e1892ede"}
 {"path":"cerca-lavoro-glarona/addetto-a-alla-vendita-settore-alimentare-e-bevande-coop-genossenschaft-zollikon/","hash":"42e4f6b7b7ebffadf3552712df2941f1dbdbfaaac52e0190f3f0a5a4ad60e6a6"}
 {"path":"cerca-lavoro-glarona/addetto-a-alle-casse-servizi-coop-genossenschaft-dielsdorf/","hash":"3a87f47d8a754784edfadbd9822ac5ef2d5f398a6b44d74d76b09d12ed764fe5"}
@@ -1105,8 +1105,8 @@
 {"path":"cerca-lavoro-glarona/addetto-a-alle-vendite-food-coop-genossenschaft-baar/","hash":"509a449d230e182774d2c80e91a5ceba20f7813c901507fce1f16fc080fedfe8"}
 {"path":"cerca-lavoro-glarona/addetto-a-alle-vendite-food-coop-genossenschaft-brugg/","hash":"a2397e80249a48377e126f4d0df326d1e8cf86ed6a574699209401bbd697e22a"}
 {"path":"cerca-lavoro-glarona/addetto-a-alle-vendite-food-coop-genossenschaft-herrliberg/","hash":"60fb4b46b8ace0e208d11b9604b0e58e47024dff9039b3705ce51fef7a7b7d6c"}
-{"path":"cerca-lavoro-glarona/addetto-a-alle-vendite-food-coop-genossenschaft-kehrsatz/","hash":"e22628b0df2bb4b823ee02bb85f6eb0032f0bf574ce97a0d4a2f8c912e114197"}
-{"path":"cerca-lavoro-glarona/addetto-a-alle-vendite-food-coop-genossenschaft-schleitheim/","hash":"902bd23ec25a71a9d81108aa1598a0166f6d4062ee167518fcd7d056ec6a393e"}
+{"path":"cerca-lavoro-glarona/addetto-a-alle-vendite-food-coop-genossenschaft-kehrsatz/","hash":"47a34a9961a1e5e37f2c2b07603c087c599e337174617d2db4ff96a40ecc16e0"}
+{"path":"cerca-lavoro-glarona/addetto-a-alle-vendite-food-coop-genossenschaft-schleitheim/","hash":"d044fbd8bdb46d50477b60c36b0c4812d7568c6d4775c609a5fcd0b16d0a6657"}
 {"path":"cerca-lavoro-glarona/addetto-a-alle-vendite-food-frischprodukte-coop-ruschlikon-zurich-94cvbb/","hash":"f01dbed98206f0d1a3bd52e26f8ee8756ec3d317fc070d5831483b3d27bcbb72"}
 {"path":"cerca-lavoro-glarona/addetto-a-alle-vendite-food-frischprodukte-coop-ruschlikon-zurich-y8o12l/","hash":"7346e9ee264d12b04f8d2307021e3394f0a6b0d25e606cb634ae1b8582e1b6da"}
 {"path":"cerca-lavoro-glarona/addetto-a-alle-vendite-food-pane-pasticceria-coop-genossenschaft-gebenstorf/","hash":"39f4edf5c6f27a6cb3acca667a05fecaef2075cf9b076f71712be0d7959cb836"}
@@ -1126,7 +1126,7 @@
 {"path":"cerca-lavoro-glarona/addetto-a-alle-vendite-migrolino-wilderswil-t9g9uz/","hash":"716541d0c9bc24b08069bda5c12c263c53ea9981c369cd33ea08274aad98ad81"}
 {"path":"cerca-lavoro-glarona/addetto-a-alle-vendite-migros-ticino-wichtrach-z0ao1d/","hash":"fd92aacd5a49f4d1898b1569d790c1b5d57fcd325886d196b01ae6ffb64dbcd4"}
 {"path":"cerca-lavoro-glarona/addetto-a-alle-vendite-non-food-coop-genossenschaft-regensdorf/","hash":"b42f74aac72a40523abc78697ac76c778d19b9aca7bfca1209ee3cba8095f742"}
-{"path":"cerca-lavoro-glarona/addetto-a-alle-vendite-prodotti-freschi-coop-genossenschaft-niederrohrdorf/","hash":"08562648929606228587b70e7c7bd8221a9191a1648207e71996fe19748f7916"}
+{"path":"cerca-lavoro-glarona/addetto-a-alle-vendite-prodotti-freschi-coop-genossenschaft-niederrohrdorf/","hash":"ad0358e06cadb91433d377958b98b993741dbb47c9802682d761f93c99f4192e"}
 {"path":"cerca-lavoro-glarona/addetto-a-alle-vendite-prodotti-freschi-coop-genossenschaft-wurenlingen/","hash":"8d49c37c986aa8476505c53e96f0823aab9327f070b90f76d3bf93332262fbd3"}
 {"path":"cerca-lavoro-glarona/addetto-a-alle-vendite-schwerpunkt-service-30-befristet-c-a-schweiz-sursee/","hash":"85c97547ea0550087ef2faa430e500be8a08f18fcf3cf3f179ed9463ece25952"}
 {"path":"cerca-lavoro-glarona/addetto-a-alle-vendite-wohnzimmerabteilung-50-80-ikea-dietlikon/","hash":"02349a0d01942cf735e0f77ade98fe31c5638b167642ebd2c6317754d10d6cff"}
@@ -1134,16 +1134,16 @@
 {"path":"cerca-lavoro-glarona/addetto-a-gestione-pazienti-fatturazione-klinik-sonnenhalde-riehen/","hash":"2a418d3c248e02a16daf05554730b1dcd4ecf5a6badf46a413bd647370bc1ffa"}
 {"path":"cerca-lavoro-glarona/addetto-a-servizi-tertianum-kirchlindach/","hash":"d3e0a163d4e14f3cffffde3833ba1d0442f3ca08b2838919aa6f70d7c806b516"}
 {"path":"cerca-lavoro-glarona/addetto-a-tecnica-degli-edifici-hlkks-kantonsspital-baselland-ksbl-liestal/","hash":"e988422502520939c55ca2ba5f2654170b7bbfc8fdf7706c8297bc040b4b2c51"}
-{"path":"cerca-lavoro-glarona/addetto-a-vendite-alimentari-coop-genossenschaft-luterbach/","hash":"def87a86328c694553e8cdf6687036553efa87e89905d451da9345698e2830f8"}
-{"path":"cerca-lavoro-glarona/addetto-a-vendite-alimentari-coop-genossenschaft-zurich/","hash":"003a7528f259ef9b54dab6a553e3c9fa9f5607a0292f899bee9e438cb9180a7e"}
+{"path":"cerca-lavoro-glarona/addetto-a-vendite-alimentari-coop-genossenschaft-luterbach/","hash":"55612c05e7dc8ecb6ae623dcdd224a96caa9e4b0d5835f1d9294cbd926d49843"}
+{"path":"cerca-lavoro-glarona/addetto-a-vendite-alimentari-coop-genossenschaft-zurich/","hash":"e9e619b522708d20baebad0bb3d46be4fa0c8af16d26538211e8c47ae3ddc1ec"}
 {"path":"cerca-lavoro-glarona/addetto-a-vendite-prodotti-freschi-a-ore-genossenschaft-migros-luzern-kriens/","hash":"f4c5f695483bade0cf10cad4850784a1f1082e837261b02e5a48a9021c3f5f0f"}
 {"path":"cerca-lavoro-glarona/addetto-a-vendite-prodotti-freschi-incl-produzione-coop-genossenschaft-herzogenbuchsee/","hash":"9add68d584fe4a1fbdd1f92592f1eae73e902e31d9496503433581f9f5d17b2f"}
 {"path":"cerca-lavoro-glarona/addetto-al-servizio-civile-come-tuttofare-laboratorio-chimica-clinica-e-immunologia-scheda-di-incarico-101146-luzerner/","hash":"ddf953462f8b081102525eb22308149e32492e6f5cd3faeb2133b363c4d1dac3"}
 {"path":"cerca-lavoro-glarona/addetto-alla-consegna-magazziniere-prodotti-da-forno-uomo-donna-albis-beck-mettmenstetten/","hash":"61908b61c7f60b77ce4ad9681b59fbd82fc84640923fb1efb94e48454bb78d96"}
-{"path":"cerca-lavoro-glarona/addetto-alle-vendite-alimentari-coop-genossenschaft-tauffelen/","hash":"3c0eba2556fdbb04904170436d8d52b2f3d04037a445f7a37f6838f4b994919a"}
+{"path":"cerca-lavoro-glarona/addetto-alle-vendite-alimentari-coop-genossenschaft-tauffelen/","hash":"16393ab1fe620d114d40f89c5f174de311548b95236d1f8b52b6f4f4b92298cd"}
 {"path":"cerca-lavoro-glarona/addetto-alle-vendite-alimentari-sabato-coop-genossenschaft-winterthur/","hash":"7e0c9941a1c2b17b9a2e9cfb4b04c7f4219258af2565b4ac3ba3cf17e1330d76"}
-{"path":"cerca-lavoro-glarona/addetto-alle-vendite-alimentari-studente-studentessa-coop-genossenschaft-zurich/","hash":"fe2d681a54dd3cfd82b147a3826d55de1b3a9ea13309359d09f4ad6aab35332e"}
-{"path":"cerca-lavoro-glarona/addetto-alle-vendite-coop-coop-genossenschaft-lengnau/","hash":"85972765eaf09bbaf525444c296199e9a96e6334fd343c43684d660071756fc9"}
+{"path":"cerca-lavoro-glarona/addetto-alle-vendite-alimentari-studente-studentessa-coop-genossenschaft-zurich/","hash":"a1a25dbf6a9c640e468e4eb77744d464a35d9788fa69ef4c53e536040a5cca6f"}
+{"path":"cerca-lavoro-glarona/addetto-alle-vendite-coop-coop-genossenschaft-lengnau/","hash":"405f9afc7269913b18a9d2553a8d9f15bd9fc97b47dc8e49fdd47551f8f826dd"}
 {"path":"cerca-lavoro-glarona/addetto-alle-vendite-nonfood-coop-genossenschaft-winterthur/","hash":"91c70b0d1db14b92ea3f8cee62428b10627b6b40851e9df3f3ea4ceb9c46171b"}
 {"path":"cerca-lavoro-glarona/addetto-ricevimento-accoglienza-pazienti-40-ostschweizer-kinderspital-st-gallen/","hash":"7ba4bd84509cfc5591050f67fdba852198a7d2a7ddab3cad1feae0b008b32b95"}
 {"path":"cerca-lavoro-glarona/adjoint-au-gerant-80-chocolaterie-vevey-m-w-d-laderach-schweiz-ag-vevey/","hash":"f14f07f2f4357cd625c0f5650af893e2cbd5a93a88c128c45a59e8cf2745fc6e"}
@@ -1225,7 +1225,7 @@
 {"path":"cerca-lavoro-glarona/apprendista-impiegato-a-del-commercio-al-dettaglio-cfc-a-in-der-filiale-schattdorf-jysk-schattdorf-qrsmyr/","hash":"408ab77957d61252b434511e9f4124e0352e418cde7da0b9a4ec91c4fea507ea"}
 {"path":"cerca-lavoro-glarona/apprendista-in-systemgastronomie-cfc-mcdonald-s-switzerland-dielsdorf/","hash":"349df4fb5391896e3937fe06b62dfefea9a6c7fe9985ed349c6228d2adcb0e78"}
 {"path":"cerca-lavoro-glarona/apprendista-in-systemgastronomie-cfc-mcdonald-s-switzerland-regensdorf/","hash":"03c04b556248c2c9564f1062384f95d9316e7bb2e19485d3935086e038de4728"}
-{"path":"cerca-lavoro-glarona/apprendista-professionista-sanitario-fage-efz-casa-di-riposo-frutigen-2026-spitaler-fmi-ag-frutigen/","hash":"d4721b7b08ec5341fb739e0adc754fe591b3d5d5de51b93aa145453ee58249ae"}
+{"path":"cerca-lavoro-glarona/apprendista-professionista-sanitario-fage-efz-casa-di-riposo-frutigen-2026-spitaler-fmi-ag-frutigen/","hash":"6393979ed5e463d98fd40c90439e30836310bd29d21bc6e2f7819a5ce3ba8d65"}
 {"path":"cerca-lavoro-glarona/apprendista-progettista-in-orientamento-sanitario-per-la-tecnologia-dell-edilizia-bkw-bulle/","hash":"17c3e365419a9b3ea92d326e75dee790a7529c56fc75f79168547d7701f31029"}
 {"path":"cerca-lavoro-glarona/apprendista-r-fachfrau-fachmann-gesundheit-cfc-rehaklinik-bellikon-bellikon/","hash":"6b9a0cb71fc7ecd68ed3e9930900bc1a37c8fadd0b8abca163c34acd296b1667"}
 {"path":"cerca-lavoro-glarona/apprendista-r-fachfrau-fachmann-reinigungstechnik-cfc-rehaklinik-bellikon-bellikon/","hash":"a6c063c4d32c3797274b94a0baff434f96dc4bf77c1bfee37396177ca6595005"}
@@ -1428,7 +1428,7 @@
 {"path":"cerca-lavoro-glarona/assistente-alle-vendite-alimentari-coop-genossenschaft-strengelbach/","hash":"906ce0e3cfefe1230f33f5195cf1d144f296898fc019fd79a9a97dd5ff3db764"}
 {"path":"cerca-lavoro-glarona/assistente-alle-vendite-alimentari-coop-genossenschaft-tasch/","hash":"57152b4d2821c7142ca4fee109c9ea22e42ff055f3e75a6a438c957a57171e0c"}
 {"path":"cerca-lavoro-glarona/assistente-alle-vendite-alimentari-coop-genossenschaft-uetendorf/","hash":"fd8b3a7825061be2a73eab7054db67ae6dc76ed0c79f715e4aee7d7179a5c5c3"}
-{"path":"cerca-lavoro-glarona/assistente-alle-vendite-alimentari-coop-genossenschaft-zollikon/","hash":"0b73f54dc87b0b715a775d8ee3f69147c34091b0a43368ed8d2a459626d3c662"}
+{"path":"cerca-lavoro-glarona/assistente-alle-vendite-alimentari-coop-genossenschaft-zollikon/","hash":"e204fcef0af5ee9c9252dc054b401153a552f2e128cd4e2b1479e8f412526aa3"}
 {"path":"cerca-lavoro-glarona/assistente-alle-vendite-alimentari-coop-genossenschaft-zumikon/","hash":"e316d4df1d31b934571e3314b1c70847a0d029f9f96918c59a38c1eaaba0abcd"}
 {"path":"cerca-lavoro-glarona/assistente-alle-vendite-alimentari-latticini-coop-genossenschaft-luzern/","hash":"81627d0b23cdd57f9ea6b71b1985100f9894184493bc08be21e1be9b99f30d3d"}
 {"path":"cerca-lavoro-glarona/assistente-alle-vendite-alimentari-springer-coop-genossenschaft-ostermundigen/","hash":"282ed205a7dd2ed7290a26e9ba4e951a52b278cbdb17626b3c6cdef652614553"}
@@ -1485,7 +1485,7 @@
 {"path":"cerca-lavoro-glarona/assistente-di-stazione-mpa-fage-pharma-ass-in-medicina-kantonsspital-baden-ksb-baden/","hash":"3e666e588ea37362407b4a26d5eeb7eda0c402693325c10359bb683de29b694d"}
 {"path":"cerca-lavoro-glarona/assistente-di-studio-medico-100-rennbahnklinik-muttenz/","hash":"4adc6e1b9fd81160bf8e2ffc33a478061afca74a7b12090a70a2df476b070049"}
 {"path":"cerca-lavoro-glarona/assistente-di-studio-medico-40-80-in-moderna-clinica-oculistica-pallas-kliniken-olten/","hash":"1745ebc71dab5db65689d056269eda70eb59dedfe86479e4475039d8cb436e1b"}
-{"path":"cerca-lavoro-glarona/assistente-di-studio-medico-60-80-uroviva-schlieren/","hash":"2defa5767bca96b0544354216ec35bd45e76c1d71db631a8168320f29b1dc7bf"}
+{"path":"cerca-lavoro-glarona/assistente-di-studio-medico-60-80-uroviva-schlieren/","hash":"6357bc0fc16bc6205194244bee2b2c14cbc29f2c6aa5f28ac3292f113406c292"}
 {"path":"cerca-lavoro-glarona/assistente-di-studio-medico-80-luzerner-kantonsspital-luks-luzern/","hash":"1ab3be840beb689a925f88c0b3e805da731357496d5f3fcb2752b5d354db1553"}
 {"path":"cerca-lavoro-glarona/assistente-di-studio-medico-mpa-40-60-ostschweizer-kinderspital-st-gallen/","hash":"83e21c68fff547b819095f0773385ba531801b243df019618ce6ab78d71f91f6"}
 {"path":"cerca-lavoro-glarona/assistente-di-tirocinante-f-h-ensemble-hospitalier-de-la-cote-ehc-morges/","hash":"b4f43b1ca4a19f697b3a6e38c563f76ba981302d0c63e2ae8bd7bbc6ccf92de7"}
@@ -1557,7 +1557,7 @@
 {"path":"cerca-lavoro-glarona/assistente-medico-assistente-sanitaria-ginecologia-ostetricia-40-50-spital-schwyz-schwyz/","hash":"dea4072f20f221546285c111394987b07df5c37535cf5f48952c864d6c383e5d"}
 {"path":"cerca-lavoro-glarona/assistente-medico-clinique-de-la-source-lausanne/","hash":"21be26db3a6a822f7299199d29e33f397f0d38995cfc02660b5b40372732d836"}
 {"path":"cerca-lavoro-glarona/assistente-medico-endoscopico-90-swiss-medical-network-sion/","hash":"1052219c7dab73528df498fac85266c6d6d213c52a1c5510ae0dc04ab5def799"}
-{"path":"cerca-lavoro-glarona/assistente-medico-ep-stazionario-psychiatrie-baselland-liestal/","hash":"34a54fbe6216ee0480cc07343fccbab6b7c0a99b4a5d4bd8801968f226baa5c0"}
+{"path":"cerca-lavoro-glarona/assistente-medico-ep-stazionario-psychiatrie-baselland-liestal/","hash":"f3f64b776742f4c0367adfd2d1a2f4d7b2305cf0038468e1c21b6ba81dc88bd5"}
 {"path":"cerca-lavoro-glarona/assistente-medico-f-m-ensemble-hospitalier-de-la-cote-ehc-morges/","hash":"f9723e5bbe91701cc9cd4b382cb82dce0045541358fa4fb806f9bd89c1aca5aa"}
 {"path":"cerca-lavoro-glarona/assistente-medico-ginecologia-e-ostetricia-m-f-d-100-kantonsspital-uri-altdorf/","hash":"e42a0c9464cd19d88df1001ab607f4907741eaf520fb60f24a932664a36f4cb4"}
 {"path":"cerca-lavoro-glarona/assistente-medico-h-f-ginecologia-e-ostetricia-servizio-80-hopital-riviera-chablais-hrc-rennaz/","hash":"ad4cd5b096c76372ce09345d85f587e3edb0bb63afef949b56cc2118a9d0fad5"}
@@ -1608,7 +1608,7 @@
 {"path":"cerca-lavoro-glarona/assistente-nella-gestione-delle-branche-migros-ticino-menznau/","hash":"abf36be29d84cb443d1063ad3d5fdef38ac930b67f7ea82a6f22b37b4a1d0040"}
 {"path":"cerca-lavoro-glarona/assistente-ospedaliero-in-medicina-2-cdm-6-mesi-al-70-hopital-de-la-tour-meyrin/","hash":"d8df58cf22013266ba834f3986cc4c1523ccd22704025280f950b04f07b61be6"}
 {"path":"cerca-lavoro-glarona/assistente-per-infermieri-assistente-per-infermieri-srk-80-100-tertianum-weesen/","hash":"14ee4e571910f4c838d2f45406257003ca6a39e8f13fec8592fc119f534c8ee6"}
-{"path":"cerca-lavoro-glarona/assistente-per-infermieri-in-srk-springerpool-50-70-hoch-health-ostschweiz-st-gallen/","hash":"fa34eb4cca652a1c7846cbcaee17025e056794ea51655d979bd3fd7cd2bca8e9"}
+{"path":"cerca-lavoro-glarona/assistente-per-infermieri-in-srk-springerpool-50-70-hoch-health-ostschweiz-st-gallen/","hash":"eb153e792699ca5ff47a77780fba93f8fc6af0e1df7244b93ce9cf427f70bfee"}
 {"path":"cerca-lavoro-glarona/assistente-per-la-salute-e-la-cura-della-comunita-chs-pole-sante-pays-d-enhaut-chateau-d-oex/","hash":"03c35399310875e0ce7434abcd6e252b821423e0479f42782c49413fb249613c"}
 {"path":"cerca-lavoro-glarona/assistente-per-la-salute-e-la-cura-della-comunita-in-csd-di-1-mese-hirslanden-klinik-lausanne/","hash":"4a8eeddfae5508d501b233f370ab19ec410d33cc7729a5b0a45dcba542ba28cf"}
 {"path":"cerca-lavoro-glarona/assistente-per-la-salute-e-la-cura-della-comunita-o-assistente-per-l-assistenza-di-emergenza-80-hirslanden-klinik-geneve/","hash":"db4e96b33b0164ff78d0aa44eaec68ccb09700a765644cbcaaf08842e90fb365"}
@@ -1621,7 +1621,7 @@
 {"path":"cerca-lavoro-glarona/assistente-psicologo-in-psichiatria-infantile-cpcm-centre-neuchatelois-de-psychiatrie-cnp-la-chaux-de-fonds/","hash":"f4deb7bbd96202f0f607c20749216749fd16245f6125a7bd2f3b77c7a4bbb202"}
 {"path":"cerca-lavoro-glarona/assistente-psicologo-o-psicologo-specialista-psychiatrische-dienste-aargau-pdag-windisch/","hash":"7772833575e4097f174dc3de42b2dae819c930b53356de107bf8000726ffa680"}
 {"path":"cerca-lavoro-glarona/assistente-psicologo-psychiatrie-st-gallen-wil-sg/","hash":"3d8dde817e920a7f7459d55215b1e2acc7acdb8d4c5fbd234fe32fc4e74516c4"}
-{"path":"cerca-lavoro-glarona/assistente-sanitaria-e-socio-sanitaria-ags-o-ausiliaria-di-assistenza-srk-10-100-clienia-ag-pfaffikon-zh/","hash":"3600d748e82e875c08cf646a0ed678c6074e4b29029a7c4912158470972bba82"}
+{"path":"cerca-lavoro-glarona/assistente-sanitaria-e-socio-sanitaria-ags-o-ausiliaria-di-assistenza-srk-10-100-clienia-ag-pfaffikon-zh/","hash":"9ba319e937565c705af63092f2cfab0e2279c44b24c210d3fc479bbd40766daa"}
 {"path":"cerca-lavoro-glarona/assistente-sanitario-80-100-stazione-chirurgica-privata-spital-uster-uster/","hash":"24129687922e46a1987a1e565e8595a29d6605be297af9ec6f9fb430eb054674"}
 {"path":"cerca-lavoro-glarona/assistente-secondario-assistente-secondario-geriatria-acuta-kantonsspital-winterthur-ksw-winterthur/","hash":"d199687a8aade1c566b0f2d315d3c9b3d5a6cb3c50c8aeb65041c362c82291af"}
 {"path":"cerca-lavoro-glarona/assistente-secondario-hoch-health-ostschweiz-st-gallen/","hash":"da7d0d184c93e5eaac9c70464380a9be7a1e36aa9d0ac453819f420568c68aa3"}
@@ -1670,7 +1670,7 @@
 {"path":"cerca-lavoro-glarona/assistenza-per-la-gestione-degli-studenti-di-lavoro-kantonsspital-winterthur-ksw-winterthur/","hash":"c835449f5372612776f0ad665cbb5c7fcda69774d3937e361387a52ff9bd50ec"}
 {"path":"cerca-lavoro-glarona/assistenza-per-la-sterilizzazione-dal-50-klinik-seeschau-kreuzlingen/","hash":"64e7fcfbb18f0842c885dc3b08f08da5fc7cd45bea70d226ed9d66657ba4be2f"}
 {"path":"cerca-lavoro-glarona/assistenza-scientifica-nel-campo-del-diritto-migratorio-universitat-zurich-zurich/","hash":"09ce6baee275aac64a09d0bfb37428e310a34566f9c5f11698239b76d5d86c85"}
-{"path":"cerca-lavoro-glarona/assistenza-scientifica-universitat-zurich-zurich/","hash":"25c6cf93fc882ffbda017bf60eb25e38beb700741b079f6e17636fda7526693f"}
+{"path":"cerca-lavoro-glarona/assistenza-scientifica-universitat-zurich-zurich/","hash":"b88f2c1aaaf4b51e9cedb396eaf40d2630e013ffb2c25164f787fd6d2e4becef"}
 {"path":"cerca-lavoro-glarona/assistenza-specialistica-stiftung-solina-spiez/","hash":"95cce4176cdbcc120ecd1fddb5bec1676542aaa1b25526df0b0b43990375b03c"}
 {"path":"cerca-lavoro-glarona/assistenza-universitat-zurich-zurich/","hash":"fa686f422c95ec675ee2875026ebf83fa77552ffb0c5f4bd756f546c975a32bf"}
 {"path":"cerca-lavoro-glarona/assistenzarzt-arztin-in-fortgeschrittener-facharztweiterbildung-kinder-e-jugendpsychiatrie-e-psychotherapie-con-interess/","hash":"a736b5b4d42d99fac295aaec837400f9748d4124a5853a7e7c374c1457d40354"}
@@ -1710,7 +1710,7 @@
 {"path":"cerca-lavoro-glarona/ausbildungs-e-lernendenverantwortliche-r-transport-genossenschaft-migros-luzern-dierikon-pgipk9/","hash":"b099acf63f0daaf0d0a6f6d4a8fc3534578197ab8f69e2fa6749a7c7a24f6cf8"}
 {"path":"cerca-lavoro-glarona/ausbildungsleitung-hf-pflege-con-verantwortung-per-gewaltpraventionsschulungen-per-auszubildende-e-studierende-psychiatrische-universitatsklinik-zurich/","hash":"34133a9e69e86c686dc08f6bbf41e036cc5047c88d5a26ec5fe47fc7bfd3a915"}
 {"path":"cerca-lavoro-glarona/ausbildungsplatz-come-rettungssanitater-m-w-d-ameos-schweiz-einsiedeln/","hash":"0e0281e3bced96c01b21a6a269c7449cc5ad374eb455275bf9d77bca3deacf6b"}
-{"path":"cerca-lavoro-glarona/aushilfe-m-w-d-im-vendita-new-yorker-chur/","hash":"f4cc023f2ec9ac6173a12eab70d379ba0a4f230c78e2ad8445ba7ccb15083155"}
+{"path":"cerca-lavoro-glarona/aushilfe-m-w-d-im-vendita-new-yorker-chur/","hash":"9ed094d66a98e550704ecb865e0102d1685ce5e3b514fd8b6f7c3625451e3872"}
 {"path":"cerca-lavoro-glarona/aushilfe-outlet-im-stundenlohn-hilcona-schlieren/","hash":"4776642b81154c19dc427d15f55f4865367248dc3171c22bea9a8f1e5edb48d4"}
 {"path":"cerca-lavoro-glarona/ausiliario-a-di-cucina-a-ore-eoc-ente-ospedaliero-cantonale-mendrisio/","hash":"eee99f62f447b9b21c467d0b589871eedf901b904a8820d57579bdb653d75b6f"}
 {"path":"cerca-lavoro-glarona/ausiliario-a-ristorazione-eoc-ente-ospedaliero-cantonale-bellinzona/","hash":"276435d9ae93fe40327aee47bd77129856b7a1a4d0cad0720332d7271c516feb"}
@@ -1845,7 +1845,7 @@
 {"path":"cerca-lavoro-glarona/capo-cantiere-installatore-termoidraulico-100-m-kunz-ag-davos-davos-platz/","hash":"65d1d13a781eb81947136f0fe6033fb69f44c43a5fae1ba671838978efdbd52b"}
 {"path":"cerca-lavoro-glarona/capo-capo-di-fisioterapia-possibilita-di-lavoro-in-condivisione-100-luzerner-kantonsspital-luks-stans/","hash":"02c3c4266e6cd8deaec77caab3aa9dffecc4d495455fe8a9ea6f9a508ac70d63"}
 {"path":"cerca-lavoro-glarona/capo-clinica-adiuvante-in-medicina-interna-f-m-ensemble-hospitalier-de-la-cote-ehc-morges/","hash":"eba11a34b076ce5bbb6a2b431b531628ed54e0fa7e969e5af406420b994b4761"}
-{"path":"cerca-lavoro-glarona/capo-clinica-in-ctr-f-h-ensemble-hospitalier-de-la-cote-ehc-aubonne/","hash":"03187d35ad13ab77eca23e5a6de510b322f71ab00a7a5c3d0ef20f1f7201173a"}
+{"path":"cerca-lavoro-glarona/capo-clinica-in-ctr-f-h-ensemble-hospitalier-de-la-cote-ehc-aubonne/","hash":"c35325a0a55564e3642bda5e45b8cbc93da19feb7232ac537e0215b948ff824e"}
 {"path":"cerca-lavoro-glarona/capo-clinico-capo-clinico-di-thoraxchirurgia-100-luzerner-kantonsspital-luks-luzern/","hash":"5453df1619762eb68065a82e506cddd51b44eb1c3bab0b7d060b7bdadaface7d"}
 {"path":"cerca-lavoro-glarona/capo-clinico-in-pediatria-f-h-ensemble-hospitalier-de-la-cote-ehc-crissier/","hash":"c43292cfce6fc686c9a294a43960155aa6f1066021cfdfaa0bb2b92aa28e021e"}
 {"path":"cerca-lavoro-glarona/capo-dei-servizi-genossenschaft-migros-ostschweiz-winterthur/","hash":"7ab2493f6cc6618528734b80a2f8afab424942a3c109b66a1c46ac47802b6fd1"}
@@ -1893,7 +1893,7 @@
 {"path":"cerca-lavoro-glarona/capo-team-capo-team-di-cure-e-assistenza-vice-capo-capo-cure-e-assistenza-80-100-tertianum-olten/","hash":"d17b3737c7aa4a0f820d92af68e836d5fe0b3209a8c98c02bcc5a586fdc37b56"}
 {"path":"cerca-lavoro-glarona/capo-team-di-cure-per-la-stazione-di-lettini-con-nefrologia-ematologia-gastroenterologia-e-medicina-interna-generale-al/","hash":"8fe00ab555f2024dfc89e9134dc098bff274ef8f2df43ee49d14dc8e6174e76f"}
 {"path":"cerca-lavoro-glarona/capo-team-di-logistica-infermieristica-uomo-donna-solothurner-spitaler-soh-solothurn/","hash":"3e8d23e2ef50e8a091417c10db26079c6da5c36d42c99fd4d953ed438c8e50c8"}
-{"path":"cerca-lavoro-glarona/capo-team-ergoterapia-60-80-hoch-health-ostschweiz-st-gallen/","hash":"9491747900023f54ab3cea24519516bc20fea6fe2075214da7bb2303d470f071"}
+{"path":"cerca-lavoro-glarona/capo-team-ergoterapia-60-80-hoch-health-ostschweiz-st-gallen/","hash":"1eb2ff9980f476f491b814708f71dc08c5ea8c6fca207b14ceacdec2fd2de166"}
 {"path":"cerca-lavoro-glarona/capo-team-infermiere-chirurgia-viscerale-e-vascolare-60-100-luzerner-kantonsspital-luks-luzern/","hash":"a41be6ab38cf78ba5ead116ca06e92d622ac143687e3602df5b5f0f9f6a213fa"}
 {"path":"cerca-lavoro-glarona/capo-team-infermiere-per-la-stazione-di-cure-mediche-privata-half-privata-al-14-piano-70-100-luzerner-kantonsspital-luks/","hash":"571100ad45333e13dcc5884793f33678c74c67b294a5b76c3f4396b197e1ca83"}
 {"path":"cerca-lavoro-glarona/capo-tertianum-delemont/","hash":"4e4becc4da266e0132df35a20e2d46ce7dd5b71d714c126eb09adc133bd80f3d"}
@@ -1926,7 +1926,7 @@
 {"path":"cerca-lavoro-glarona/casse-servizi-per-assistenti-vendite-coop-genossenschaft-schlieren/","hash":"a56e52e5aaa3997cfda1e2d473e397732be35affd6c1e3dc51c6de2958684558"}
 {"path":"cerca-lavoro-glarona/casse-servizi-per-assistenti-vendite-coop-genossenschaft-sins/","hash":"094126afb86999cf9f899f4c3579276d9e0452c0f8a965e607d2c7ddf8c23a1a"}
 {"path":"cerca-lavoro-glarona/casse-servizi-per-assistenti-vendite-coop-genossenschaft-wettingen/","hash":"9f739c9192b88b3db514c5b424ea0d991670c6f5c8fe28ddbe85e722c810ec7e"}
-{"path":"cerca-lavoro-glarona/casse-servizi-per-assistenti-vendite-coop-genossenschaft-zumikon/","hash":"700bfdffe87e4809da4b5031004572a2cee973019eda8c27b257b74623a18658"}
+{"path":"cerca-lavoro-glarona/casse-servizi-per-assistenti-vendite-coop-genossenschaft-zumikon/","hash":"01fb9000e500daf0c92946343432b2bafb376064c81bf6942aa00989875b5360"}
 {"path":"cerca-lavoro-glarona/casse-servizi-per-assistenti-vendite-jumbo-division-der-coop-genossenschaft-glarus/","hash":"44fb64c7e0bc6b28d0318c7bef2e60073bec3ae3788dbd64dd7b045131c53c04"}
 {"path":"cerca-lavoro-glarona/casse-servizi-per-assistenti-vendite-jumbo-division-der-coop-genossenschaft-ilanz-glion/","hash":"ce6550fbd367971a3046e16171653718184ec9f9a792c10a3df02517e4bec70e"}
 {"path":"cerca-lavoro-glarona/cassettiera-per-ascensori-in-regione-berna-m-f-d-80-100-schindler-bern/","hash":"30f51782a4b6ce8b7323ae5c76b0fc4e2630ca6ce35569e95910c16ad9610dec"}
@@ -1956,7 +1956,7 @@
 {"path":"cerca-lavoro-glarona/ch-operations-expert-m-f-d-apple-retail-switzerland-ch/","hash":"3e57456dfd1376c87e4ea337631e5c84fb32d767455e7ca71f9a42c9b363cc2b"}
 {"path":"cerca-lavoro-glarona/ch-specialista-m-f-d-apple-retail-switzerland-switzerland/","hash":"e121f29cae94e56a77d92bf58a9fa3f2139087916adfaf26270a249aa5f6ca43"}
 {"path":"cerca-lavoro-glarona/ch-technical-specialista-m-f-d-apple-retail-switzerland-switzerland/","hash":"d6860419ce5b148b7ca4910b921ad7c067ef053f9ad730d8a92ed5b561d1da2a"}
-{"path":"cerca-lavoro-glarona/ch-verkaufer-verkauferin-con-schichtverantwortung-m-w-d-60-80-lidl-svizzera-niederlenz-8gzn2a/","hash":"861e01253cacd4171e2c117709def9f768ef4d408135bcaf3c4d0a41ec393fda"}
+{"path":"cerca-lavoro-glarona/ch-verkaufer-verkauferin-con-schichtverantwortung-m-w-d-60-80-lidl-svizzera-niederlenz-8gzn2a/","hash":"d836972a55b3680a3654c82e3cbf0dfb10198bf195f31434a83d295cb1352aae"}
 {"path":"cerca-lavoro-glarona/chauffeur-b-3500-kg-f-h-d-culturefood-cfd-fribourg/","hash":"be6af18fda7d0adfcc5f015bdd2e18e70f8eae78e73846d676718fe12d84cf37"}
 {"path":"cerca-lavoro-glarona/chauffeur-b-3500-kg-f-h-d-culturefood-cfd-les-ponts-de-martel/","hash":"cacedfd3f2fc27aaf47fd0493cddb3a8e4104218b43d476bc591c27d22353123"}
 {"path":"cerca-lavoro-glarona/chauffeur-c-ce-f-h-d-culturefood-cfd-fribourg/","hash":"05fa806f55a0be5bde7aa09a5c95f74212f4ac527fa68c50a87ef3f451c2559a"}
@@ -2050,7 +2050,7 @@
 {"path":"cerca-lavoro-glarona/collaboratore-trice-in-hotelservice-schweizer-paraplegiker-zentrum-spz-nottwil/","hash":"e8b4747674b8c9bcb1e7776d92932d56f0d53bb48e6aa5cc7d22e2589c3399ae"}
 {"path":"cerca-lavoro-glarona/collaboratore-trice-in-kasse-genossenschaft-migros-ostschweiz-ramsen-atd3u9/","hash":"9824517ca1a86d7b52867fe540073cf6d4b62229d63c180fba68e2d7a0c386c8"}
 {"path":"cerca-lavoro-glarona/collaboratore-trice-in-logistik-gebindesortierung-genossenschaft-migros-ostschweiz-gossau-28k1l4/","hash":"818004f9088d39513076a944da10433ec468316a2c6d11b40e70a8af70358335"}
-{"path":"cerca-lavoro-glarona/collaboratore-trice-in-metzgerei-genossenschaft-migros-aare-grenchen/","hash":"febba04986f9c54ca68d99f0e2f01ccadf2bb2b5a1c9c009d53b65cfe7ef6ab7"}
+{"path":"cerca-lavoro-glarona/collaboratore-trice-in-metzgerei-genossenschaft-migros-aare-grenchen/","hash":"b4e66f4aafa9165e122c0e6110ba0e488d27bda76f16358ff86ddc58aa1bd0fb"}
 {"path":"cerca-lavoro-glarona/collaboratore-trice-in-metzgerei-genossenschaft-migros-aare-herzogenbuchsee-9i1f94/","hash":"9bf366404ab40dce8e8332f5eb8e836a59daec27d26cd1cb89cd098c5bfa5b93"}
 {"path":"cerca-lavoro-glarona/collaboratore-trice-in-metzgerei-genossenschaft-migros-aare-langenthal/","hash":"a64ed8f160dc82a7e9a2436e191cd2cdc70fa60a22d1bfe8685a4dcc1cd9c953"}
 {"path":"cerca-lavoro-glarona/collaboratore-trice-in-office-gastraum-migros-restaurant-brugg-dbruod/","hash":"1572dded3b0be6ee9ed04561f228d6ab675bbe16c89308f3683b9b2e91f2a022"}
@@ -2145,7 +2145,7 @@
 {"path":"cerca-lavoro-glarona/commesso-a-alimentari-coop-genossenschaft-frick/","hash":"d95513b65340fc3cc639cfc0a09c4784d440e95260702b32e8e30e94ef1fbc1f"}
 {"path":"cerca-lavoro-glarona/commesso-a-alimentari-coop-genossenschaft-lauterbrunnen/","hash":"b171856a799b88b3dc6c7e23e1f0a980fba307328d0538e0addb08cc4b97b3af"}
 {"path":"cerca-lavoro-glarona/commesso-a-alimentari-coop-genossenschaft-uster/","hash":"5d65e5f70f4fab6ea733fc57f9a29c1584ee4b12d4a7c4554060e12c8fb6c349"}
-{"path":"cerca-lavoro-glarona/commesso-a-alle-casse-servizi-coop-genossenschaft-zollikofen/","hash":"382b9d9bb83c4bd8b6f8443fb6ab8d81a432742121c052472666b01e3b6d97fd"}
+{"path":"cerca-lavoro-glarona/commesso-a-alle-casse-servizi-coop-genossenschaft-zollikofen/","hash":"fa38d87069a44ea7f514c489e725a0bfca473c73c1ceb48465a6fea774126a96"}
 {"path":"cerca-lavoro-glarona/commesso-a-cassa-servizi-coop-genossenschaft-konolfingen/","hash":"3491dc16d8a7384c00f4a1047e04637e90e3706491f16fb8a2154db712d20a28"}
 {"path":"cerca-lavoro-glarona/commesso-a-food-frische-insel-coop-genossenschaft-mels/","hash":"df9a24b3f05c07bee2d95c138d24238e3ce1db263e9bcc7a773e932c09c6ede4"}
 {"path":"cerca-lavoro-glarona/commesso-a-prodotti-freschi-coop-genossenschaft-frauenfeld/","hash":"ac51cc35f421e736fb392ee9e1076960272d077fbfbc0e40de07520fc4c02d1e"}
@@ -2208,7 +2208,7 @@
 {"path":"cerca-lavoro-glarona/consulente-cliente-w-m-d-assicurazione-regione-horgen-part-time-full-time-helvetia-versicherungen-horgen/","hash":"144dce4f59657e9ac1c30e603c8dcac7c6a6af34b2443ca2d769d5525b3bd7ff"}
 {"path":"cerca-lavoro-glarona/consulente-cliente-w-m-d-assicurazione-soletta-tempo-parziale-tempo-pieno-helvetia-versicherungen-solothurn/","hash":"6db373c806c24a7779c8d6bc7919f2f8bcfefdef2a4e36b34a091eac10092302"}
 {"path":"cerca-lavoro-glarona/consulente-clientela-aziendale-raiffeisen-bellinzona/","hash":"bfb1558019cd9968ae9749a3644844c95e9ce084f84b4a5513d6105c2a0fe7d7"}
-{"path":"cerca-lavoro-glarona/consulente-clientela-aziendale-raiffeisen-savosa/","hash":"249cb835b808d5d27d51e1b57c0ed9cfdeb812b447929d80b40857df5828c288"}
+{"path":"cerca-lavoro-glarona/consulente-clientela-aziendale-raiffeisen-savosa/","hash":"217386ffaac369b78d121dffa914a72f810c20c061eda508eed68d3311bc9c09"}
 {"path":"cerca-lavoro-glarona/consulente-clientela-privata-individuale-raiffeisen-gordola/","hash":"5b518d586dfa30c7710324dd5b97b3c8ae487ef2c17fcee4a96c73e7deb5dbfc"}
 {"path":"cerca-lavoro-glarona/consulente-clienti-100-a-zurigo-concordia-zurich/","hash":"8d559d183c1a89cba1f068f16a1993b6609029948d94936326483d8d10f714fe"}
 {"path":"cerca-lavoro-glarona/consulente-clienti-60-a-olten-concordia-olten/","hash":"9d88ff936f0cb55c3179fd4059c498d4dd931f3e88354971e0905dcec66852a4"}
@@ -2374,7 +2374,7 @@
 {"path":"cerca-lavoro-glarona/coordinatore-clinico-dell-unita-di-medicina-integrativa-al-50-hopital-riviera-chablais-hrc-rennaz/","hash":"0d4f26bb8b21f2ab7eb15377f715088f859571a5d883226f9b686f43ab071900"}
 {"path":"cerca-lavoro-glarona/coordinatore-del-po-a-80-100-hirslanden-klinik-zurich/","hash":"54037dd699061ed96db8ea1e556232524ba085ff028f062f66971dfa77b04c17"}
 {"path":"cerca-lavoro-glarona/coordinatore-della-chiamata-d-emergenza-della-croce-rossa-croix-rouge-fribourgeoise-fribourg/","hash":"a22bed952c793ae0361df068450acc8c590ad4ffd86d8219ffd5efb6ca479b51"}
-{"path":"cerca-lavoro-glarona/coordinatore-della-logistica-m-f-rolex-geneve/","hash":"c7811076fe2be0c9d49c2abcaea83e2bfbd2103f9eb7b9d2253c6b5a05a9ca50"}
+{"path":"cerca-lavoro-glarona/coordinatore-della-logistica-m-f-rolex-geneve/","hash":"1290e90790c08ad5c5beb05c761a290e73b2e7f9deda3c40a2cc4c778a2e4aef"}
 {"path":"cerca-lavoro-glarona/coordinatore-della-produzione-e-amministrazione-100-two-spice-ag-rumlang/","hash":"4a09f6b2ba7326cd42436901b314091ebe586c40965868307d4c7d4bc7640fbd"}
 {"path":"cerca-lavoro-glarona/coordinatore-della-sicurezza-informatica-f-m-d-raiffeisen-st-gallen/","hash":"67d073aafd41582b1ff2a066e555c884b3ca8f95858be9b55604737d1a9a0cf1"}
 {"path":"cerca-lavoro-glarona/coordinatore-delle-unita-di-cura-clinique-de-la-source-lausanne/","hash":"fc9accbad0df30ad847172cb33f1ef1a0113c6970fed40a44db6052f16a6ac5f"}
@@ -2386,7 +2386,7 @@
 {"path":"cerca-lavoro-glarona/coordinatore-shift-mcdonald-s-switzerland-kuessnacht/","hash":"dd85e56b217e16f2abdb4821142aa8fdc8f3459ae359e18841a4080d747da4fc"}
 {"path":"cerca-lavoro-glarona/coordinatore-shift-mcdonald-s-switzerland-lausanne/","hash":"7309480751f998d951e96c2c44c3d1e533980bafe62f1ae6cf31c6d5655c1ef0"}
 {"path":"cerca-lavoro-glarona/coordinatore-shift-mcdonald-s-switzerland-zuerich/","hash":"93630ea08a68ed13589af161fd6f013b591e01682ced0bdb0dae5d4319813aac"}
-{"path":"cerca-lavoro-glarona/coordinatrice-paziente-medico-coordinatore-paziente-medico-chirurgia-vascolare-80-100-luzerner-kantonsspital-luks-luzern/","hash":"995e8b93f8b1cb853708e243a6ed8c87b20acd4683c7fe8c190e5303b27a0cc0"}
+{"path":"cerca-lavoro-glarona/coordinatrice-paziente-medico-coordinatore-paziente-medico-chirurgia-vascolare-80-100-luzerner-kantonsspital-luks-luzern/","hash":"4b1e8c5bfd49ea8cef111cf8b6851e983fd317d06412145132f44cf76f74eb4e"}
 {"path":"cerca-lavoro-glarona/corporate-contabile-m-w-d-ameos-schweiz-zurich/","hash":"dd48f546551e19e6ed1b0bc8c372af657d651708e8f39b4ff0d1103297f28988"}
 {"path":"cerca-lavoro-glarona/corsia-di-formazione-post-diploma-in-anestesia-uomo-donna-solothurner-spitaler-ag-soh-solothurn/","hash":"e3451a9b6d6c0ba1a229a1f2f609b472b90cf66dffe94343b01c0fd591af5ef6"}
 {"path":"cerca-lavoro-glarona/corso-2027-meccanica-di-produzione-trumpf-schweiz-ag-grusch/","hash":"6399f966e617eaaa5870ed3a4ab5506e47800a6260fe61e091e1a7b04918ea84"}
@@ -2492,7 +2492,7 @@
 {"path":"cerca-lavoro-glarona/devops-engineer-network-security-communication-m-w-d-zkb-zurich/","hash":"187f2571eb8218c558843e8837f8173face127023a524d581c059ba5d3dbd3a3"}
 {"path":"cerca-lavoro-glarona/devops-entwickler-data-warehouse-m-w-d-raiffeisen-st-gallen/","hash":"30e36fe3fdb35a0a71a4704b329b2f641f610749a5f23962edabf1bd30ef56fc"}
 {"path":"cerca-lavoro-glarona/devops-ingegnere-digital-assets-scrum-master-m-w-d-zurcher-kantonalbank-zurich/","hash":"635e23edfe4d90d93809710f2f9efaa0de34f8ad52c16aa34d3c567ea2e327ed"}
-{"path":"cerca-lavoro-glarona/devops-ingegnere-eth-zurich-zurich/","hash":"e77038d631d64d7667b5e6da6dd417cb7bf93b428bec9cb39dc13218a0039c3c"}
+{"path":"cerca-lavoro-glarona/devops-ingegnere-eth-zurich-zurich/","hash":"0f1818eb4f107f884f28e6134f47cd68e248f442e5c5aff1fb934030751f337f"}
 {"path":"cerca-lavoro-glarona/dhbw-student-w-m-d-cloud-technologien-2026-2029-helvetia-basel/","hash":"594919a4dbf2d124ffc1a2b3ea4e89495b3ad9e16471133433fdfc44858d29c3"}
 {"path":"cerca-lavoro-glarona/di-u00e4tk-u00f6chin-di-u00e4tkoch-60-al-100-spital-limmattal-schlieren/","hash":"efdac80d3095f32d431601363c18789bf5c6bf9ceae4b3ce870081b37a7d45ea"}
 {"path":"cerca-lavoro-glarona/diabetes-specialist-50-m-w-d-spital-mannedorf-mannedorf/","hash":"732de39122ab75455b7b69e9fb3b01ea088b3235cd7c5591589f1f3c584621ba"}
@@ -2521,7 +2521,7 @@
 {"path":"cerca-lavoro-glarona/dipl-cura-professionale-hf-80-100-m-f-d-luzerner-psychiatrie-lups-luzern/","hash":"c692dd742158024c60cbba7b0477c7424e2c056d0867de58e2c5ede25f08586a"}
 {"path":"cerca-lavoro-glarona/dipl-cura-professionale-hf-fh-adullam-stiftung-basel/","hash":"21caedb980a59613564a1111f59012f54f486f1ed19c3d93ddb54bc7a8b108f9"}
 {"path":"cerca-lavoro-glarona/dipl-cura-professionale-hf-fh-esperienza-diversita-nella-piscina-flex-spitaler-schaffhausen-schaffhausen/","hash":"84a4f7df5a82ae1380c0c49a08f1049ccd72cb699f1d8af26f31dd26eeaa7940"}
-{"path":"cerca-lavoro-glarona/dipl-cura-professionale-hf-fh-in-servizio-notturno-m-f-d-30-90-clienia-ag-pfaffikon-zh/","hash":"b06903611e59fbb4f1f36586be60276772aba28cfe20195fe6274afd6860e763"}
+{"path":"cerca-lavoro-glarona/dipl-cura-professionale-hf-fh-in-servizio-notturno-m-f-d-30-90-clienia-ag-pfaffikon-zh/","hash":"598a943f685fb0c60cf9fc597a98fd57addb920df7487815752e5fa65a031d49"}
 {"path":"cerca-lavoro-glarona/dipl-cura-professionale-hf-fh-psychiatrie-st-gallen-wil-sg-c6894d/","hash":"c0322edf335c372ae867d473462e45359cd4fbd22ed36955bdc11d9e7bbbe563"}
 {"path":"cerca-lavoro-glarona/dipl-cura-professionale-hf-fh-psychiatrie-st-gallen-wil-sg/","hash":"43ab240b803d400e24047ff9b44bda3186e61731a161d3c088d249ff7db8d3fc"}
 {"path":"cerca-lavoro-glarona/dipl-cura-professionale-hf-oncologia-see-spital-horgen/","hash":"214f1d21106922d461c5cf69b6d45a3c2f2a8c1c31a5e0bcf1787b18480c1b61"}
@@ -2540,7 +2540,7 @@
 {"path":"cerca-lavoro-glarona/dipl-esperto-in-pronto-soccorso-assistenza-intensiva-dal-40-nel-pool-dei-dipendenti-sro-ag-spital-region-oberaargau/","hash":"3412b5e9fd547b64206a49742939923a8673ae23a7be2e69a3b9cb70827d5368"}
 {"path":"cerca-lavoro-glarona/dipl-esperto-in-pronto-soccorso-nds-spital-zofingen-zofingen/","hash":"53bfc8801ce0cf3ca2ff5398982f89664587740f44c73c5d63e9d352e83148e4"}
 {"path":"cerca-lavoro-glarona/dipl-esperto-in-terapia-intensiva-nds-hf-a-spital-emmental-burgdorf/","hash":"78bef0f08565f1c6b85ebc0e99bc93f927d6fc2008ae316f0c22446ac18fa76a"}
-{"path":"cerca-lavoro-glarona/dipl-esperto-in-terapia-intensiva-nds-hf-schweizer-paraplegiker-zentrum-spz-nottwil/","hash":"fb48341336f71e470090d6637fc5de235e931b3cb5ee885651c94f9b982cd91c"}
+{"path":"cerca-lavoro-glarona/dipl-esperto-in-terapia-intensiva-nds-hf-schweizer-paraplegiker-zentrum-spz-nottwil/","hash":"dea744266ebc3f7041ee414abd937e8ab3d2bfcba4c5671369cb6d6442c6161d"}
 {"path":"cerca-lavoro-glarona/dipl-esperto-nella-cura-di-emergenza-nds-hf-50-100-kantonsspital-baden-ksb-baden/","hash":"9a1283ac72641aca28b916b452938527d7bce351f2415885398984c1b156d79e"}
 {"path":"cerca-lavoro-glarona/dipl-expert-dipl-expert-anesthesia-care-nds-hf-lindenhofgruppe-bern/","hash":"2e143741d724fdaf6e67bc73a97ee9b7520bb9bbaedddd478ef47cce3e19136e"}
 {"path":"cerca-lavoro-glarona/dipl-expert-emergency-care-nds-m-f-d-spitalverbund-appenzell-ausserrhoden-svar-herisau/","hash":"d58114126e18a54dfe94da28790f28b9d94dca81f71b469d110c6dfa38455253"}
@@ -2598,7 +2598,7 @@
 {"path":"cerca-lavoro-glarona/dipl-infermiere-a-di-anzianita-per-area-residenziale-protetta-30-100-tertianum-berlingen/","hash":"fc85df82f3544e1b0dc705602c87456059a618e5b349f35f360b404c57f2b8d1"}
 {"path":"cerca-lavoro-glarona/dipl-infermiere-a-fh-hf-dnii-per-turno-di-notte-80-tertianum-berlingen/","hash":"9be1be593147746cb5720cf6bc3ef3d59124edef51636b9409f6cda86bd59220"}
 {"path":"cerca-lavoro-glarona/dipl-infermiere-a-hf-come-formatore-a-100-tertianum-horgen/","hash":"e3c0874185acdfe27bf1413b061843fe12527be942ad760376f93cfb24467899"}
-{"path":"cerca-lavoro-glarona/dipl-infermiere-a-hf-come-formatore-a-60-100-tertianum-zurich/","hash":"8f28c43ab85720bcc0c3711dfbd7789f60b4b44f98b55acfe31dacf5e57fb9cb"}
+{"path":"cerca-lavoro-glarona/dipl-infermiere-a-hf-come-formatore-a-60-100-tertianum-zurich/","hash":"8271d2cbce777c420744796a7b0aa65302786af53a0028b3c5d7022a5798d96c"}
 {"path":"cerca-lavoro-glarona/dipl-infermiere-a-hf-fh-40-80-percorso-di-assistenza-e-transizione-kzu-kompetenzzentrum-pflege-und-gesundheit-embrach/","hash":"47085a206bc561a9b7f67a0cafef7929be23b1869d88ac6354110a376a2b0dfa"}
 {"path":"cerca-lavoro-glarona/dipl-infermiere-a-hf-fh-chirurgia-kantonsspital-baden-ksb-baden/","hash":"89753e600b550e026792055617dabff9766981ecf2f81c722670dbfe716d55e4"}
 {"path":"cerca-lavoro-glarona/dipl-infermiere-a-hf-fh-dnii-e-responsabile-rai-nh-60-100-tertianum-nidau/","hash":"5422b57ba784a7ab277e81f54ac2277510fb0d33f6e88a83ef968f65edec3d68"}
@@ -2650,10 +2650,10 @@
 {"path":"cerca-lavoro-glarona/dipl-infermieristica-professionale-hf-occupazione-operativa-focus-p-sro-ag-spital-region-oberaargau-langenthal/","hash":"ee6ad65e1733db6cfa42e2d4dbfeb487b84b7ccf48233986b9f17fcff0a5a41e"}
 {"path":"cerca-lavoro-glarona/dipl-infermieristica-professionale-infermieristica-piscina-professionale-f-m-d-solothurner-spitaler-soh-solothurn/","hash":"6033e6921eb6342cdf3ec58b7ecb44cf7949bc3caead56b27f9dcae310aadc5f"}
 {"path":"cerca-lavoro-glarona/dipl-infermieristica-professionale-infermieristica-tertianum-lenzburg/","hash":"289db1605aabda946495b25758a6f3b6f2545295e523a9fef8f9311691fd61ea"}
-{"path":"cerca-lavoro-glarona/dipl-infermieristica-riabilitazione-specialistica-spital-thurgau-stgag-diessenhofen/","hash":"92c20aee59141483dd53a4adb66deee3febdc26760091e6e70d045871eb3c621"}
+{"path":"cerca-lavoro-glarona/dipl-infermieristica-riabilitazione-specialistica-spital-thurgau-stgag-diessenhofen/","hash":"db3acfb0ef79d23022fdd77a67baf6e82e8093a766b8c014aca627aa753304e3"}
 {"path":"cerca-lavoro-glarona/dipl-infermieristica-specialistica-mann-hf-fh-piscina-centrale-50-100-kantonsspital-baden-ksb-baden/","hash":"6bcce502b96ad38b0ee08b262899315360f0fc2285dcf220406c4c5ccbb3e089"}
 {"path":"cerca-lavoro-glarona/dipl-lavoratore-sociale-in-fh-klinik-sonnenhalde-riehen/","hash":"f484aa058bc795ea697bd0f69176d17cd9f01e63cfb4c6f8c84c36fc5ee2a74f"}
-{"path":"cerca-lavoro-glarona/dipl-lavoratore-sociale-in-fh-schweizer-paraplegiker-gruppe-nottwil/","hash":"a01efcd61ac33d73a47662a0f2b09b84e7356d8b7a2d3ae3e992ad855eeec71f"}
+{"path":"cerca-lavoro-glarona/dipl-lavoratore-sociale-in-fh-schweizer-paraplegiker-gruppe-nottwil/","hash":"dc808819f21ac8303372c086557df23865260b2a418aac08d4a66021c27bec4a"}
 {"path":"cerca-lavoro-glarona/dipl-logopad-innen-per-schuler-innen-con-sonderschulstatus-separation-stadt-zurich/","hash":"127e0eb889b65c49d9860de896e5b60e3260294f76e05b24539e1be80c969471"}
 {"path":"cerca-lavoro-glarona/dipl-medico-tecnica-r-specialista-di-radiologia-60-100-rennbahnklinik-muttenz/","hash":"8a3ad76f03e603aac51ca54f13c5fed05fdc52377c8c819baa2d8342cebc4ec1"}
 {"path":"cerca-lavoro-glarona/dipl-midwife-a-spital-emmental-burgdorf/","hash":"35677d859c7c22f6bd50cacdf11496b1d8a05cb7ae487d147998399469aaeee9"}
@@ -2819,8 +2819,8 @@
 {"path":"cerca-lavoro-glarona/dipl-professionista-di-cura-a-lungo-termine-spital-thurgau-stgag-munsterlingen/","hash":"15eb12c5fc1b946d13c03e2fcd23aebb2594a520aee1c734111d472139a0d98e"}
 {"path":"cerca-lavoro-glarona/dipl-professionista-hf-fh-adullam-stiftung-basel/","hash":"4a51edd280cf08b76a23aad33db74ebd3a2adfb843e8ee944cfcf9ec9961df04"}
 {"path":"cerca-lavoro-glarona/dipl-professionista-hf-fh-in-servizio-notturno-40-50-clienia-ag-pfaffikon-zh/","hash":"4d69b373c21bf4b2de2c09e3173a22ceddf49a25e1d5470b8431df190ecb45c5"}
-{"path":"cerca-lavoro-glarona/dipl-professionista-nel-laboratorio-di-catetere-cardiaco-hkl-a-40-hirslanden-klinik-st-gallen/","hash":"34490ca637e7e477bab85b8431cb2674c4f12a5a56e49a570187ba5966cc1c2f"}
-{"path":"cerca-lavoro-glarona/dipl-radiologa-hf-mtra-60-100-m-w-d-spital-mannedorf-mannedorf/","hash":"0c3bd59785325b2a141c42600350ac7577c82690f8710123a3eecb559cfb824f"}
+{"path":"cerca-lavoro-glarona/dipl-professionista-nel-laboratorio-di-catetere-cardiaco-hkl-a-40-hirslanden-klinik-st-gallen/","hash":"d4ec4f1898ae4992cc2a843c5cd8e4d58f4c5296f24dc6663b02551a751900f4"}
+{"path":"cerca-lavoro-glarona/dipl-radiologa-hf-mtra-60-100-m-w-d-spital-mannedorf-mannedorf/","hash":"aa452377289413cd4ff90936de20bc885aebdfd26282afd0649cf88cad1bdc08"}
 {"path":"cerca-lavoro-glarona/dipl-radiologiafachfrau-radiologiafachmann-kantonsspital-aarau-ksa-aarau/","hash":"5f04359959f43a878d709eeca7cf737d58f50ad77212b2ade095dcd603afc639"}
 {"path":"cerca-lavoro-glarona/dipl-radiologiefachfrau-mann-hf-mtr-mtra-50-100-gzo-spital-wetzikon/","hash":"ca8657523bd25a26ea338b414484578d164b8ab8a658926906f5519ffb90b0c5"}
 {"path":"cerca-lavoro-glarona/dipl-radiologiefachfrau-mann-hf-spital-thurgau-stgag-munsterlingen/","hash":"424df3bd1f7d9867be49ab9f4a9ee6c870dc49b7ceb3300ba1d97313db1ff410"}
@@ -2865,7 +2865,7 @@
 {"path":"cerca-lavoro-glarona/diplomata-di-assistenza-infermieristica-infermiere-professionale-hf-40-100-con-funzione-di-formatore-professionale/","hash":"7e09d0f5d08eb295ffd33cdfc0b712220f88410c68711f53e5c3869db91d791f"}
 {"path":"cerca-lavoro-glarona/diplomata-di-assistenza-infermieristica-operativa-specializzati-in-chirurgia-ortopedia-uomini-donne-solothurner-spitaler/","hash":"9b2921d94740ede45959f99a55d6ca4be7aa177b1102d80d69b9440692a2cf71"}
 {"path":"cerca-lavoro-glarona/diplomata-di-assistenza-infermieristica-specializzati-in-chirurgia-e-ostetricia-uomini-donne-solothurner-spitaler-ag-soh/","hash":"89943d5a6fb8d1fbf65770ffcee8ebf3441a7de8b42bfcf5e9d65ddc6923e581"}
-{"path":"cerca-lavoro-glarona/diplomata-di-assistenza-infermieristica-springerpool-80-100-hoch-health-ostschweiz-st-gallen/","hash":"e7aa6b6971d4c14c6a9285018dab5e64c8d55fd934c31633b9c835a690799844"}
+{"path":"cerca-lavoro-glarona/diplomata-di-assistenza-infermieristica-springerpool-80-100-hoch-health-ostschweiz-st-gallen/","hash":"3a37ecdd2010a6991f8be5cdea2540a56c2c04c6d1955f5ae5d9712e6619ab0b"}
 {"path":"cerca-lavoro-glarona/diplomata-in-assistenza-infermieristica-specializzati-in-unita-di-stroke-con-monitoraggio-incluso-medicina-u-m-i/","hash":"f668f247296e289c89d484d0e904808575863a1d8f18a559b639ae0f972d62f6"}
 {"path":"cerca-lavoro-glarona/diplomata-infermiera-in-professionale-hf-fh-60-100-klinik-gut-ag-st-moritz/","hash":"7f7202b6a8cda3d2d8491799a9dfb8ecc3561a7690b89388ba11a96a2dd44052"}
 {"path":"cerca-lavoro-glarona/diplomata-infermiera-in-professionale-hf-fh-80-100-stagione-invernale-2026-27-klinik-gut-ag-st-moritz/","hash":"2796438cd1a98dfdf701eb64ce33e5be5f5217938b45a229a6421c3c33922dd1"}
@@ -2886,7 +2886,7 @@
 {"path":"cerca-lavoro-glarona/diplomata-infermiera-professionale-hf-fh-u-m-d-turno-notturno-80-100-clienia-ag-pfaffikon-zh/","hash":"d444d7c5af3b3fb5ed573b60546bdd91ed95131e42c4485170f042ea58669455"}
 {"path":"cerca-lavoro-glarona/diplomata-infermiera-professionale-hf-nazionale-notturno-50-70-clienia-ag-pfaffikon-zh/","hash":"2ad0742b83c38381853fe71a8ab75fb2559c5a34371f3a69688dbba1244d7d2e"}
 {"path":"cerca-lavoro-glarona/diplomata-infermiera-professionale-in-servizio-notturno-e-a-tempo-parziale-10-90-clienia-ag-pfaffikon-zh/","hash":"677675994b80fbbdb49a3c0a382e5005fa737cfa0d446f19e3e3de93d6cf47bc"}
-{"path":"cerca-lavoro-glarona/diplomata-specialista-attivazione-hf-tertianum-horgen/","hash":"3bb66272961e241c2a4a819a6eb8ad549c8639e755ad4262dabe209d49202d95"}
+{"path":"cerca-lavoro-glarona/diplomata-specialista-attivazione-hf-tertianum-horgen/","hash":"e21cc7992a3b7d9ad33c89d01e2ef64414225da14c6335c0f037d7509f0986ad"}
 {"path":"cerca-lavoro-glarona/diplomato-a-della-cura-con-prospettive-di-sviluppo-50-100-concara-domicil-spitex-bern-bern/","hash":"9abbfdb0b3514d5d8f903ce02b178be0c2107eb315434e905ac7f11ca72bb8da"}
 {"path":"cerca-lavoro-glarona/diplomato-a-della-cura-con-prospettive-di-sviluppo-60-100-concara-domicil-spitex-bern-bern/","hash":"029c2e1d0a20e5753e995a1cabc52959c096fc95b5fd1f655d6c745cc31a8885"}
 {"path":"cerca-lavoro-glarona/diplomato-a-della-cura-hf-pflegezentrum-sonnweid-wetzikon/","hash":"a7f6ed6dade94190b55a03d48d5c134d4cc5f7406b7920bee0f4133bfa71fbf0"}
@@ -3094,7 +3094,7 @@
 {"path":"cerca-lavoro-glarona/executive-assistant-siegfried-ch/","hash":"8b0df3a1101d8e4c74bd9cdf9caffedac57333a7b67e6ea208da8654d3d23ce6"}
 {"path":"cerca-lavoro-glarona/expert-expert-care-stiftung-wagerenhof-uster/","hash":"ff5956eadd8c3461c9c7d145819a66199f2387830038ecaef29d53c2820bf820"}
 {"path":"cerca-lavoro-glarona/expert-expert-diabetes-consulenza-60-80-sro-ag-spital-region-oberaargau-langenthal/","hash":"99b323241423ba5f7daf3df475175a819f3563b2b1933c90ed87987778a4e0ff"}
-{"path":"cerca-lavoro-glarona/expert-expert-emergency-care-nds-hf-kantonsspital-winterthur-ksw-winterthur/","hash":"d270040f5eb74b1545eab752d6cc4ae5c7e50ee68f163066779e497e6decdc42"}
+{"path":"cerca-lavoro-glarona/expert-expert-emergency-care-nds-hf-kantonsspital-winterthur-ksw-winterthur/","hash":"4990bd7a60b3fb21bebc41971b981c4b8500e6ded54f4bd0fe5bbf658525eb3e"}
 {"path":"cerca-lavoro-glarona/expert-expert-emergency-care-temporanea-spital-sts-thun/","hash":"941b548c48926bf5c792336235773f9c1bdc7e2874d65dc5c9f9c5a6901adf03"}
 {"path":"cerca-lavoro-glarona/expert-expert-tomografia-computerizzata-kantonsspital-winterthur-ksw-winterthur/","hash":"002c9bcc60ddca79fba8ca16c39a3cf05ce4b177135ca4691b4b773796f462b2"}
 {"path":"cerca-lavoro-glarona/expert-process-specialista-manufacturing-process-technology-sisslerfeld-a-100-bachem-ag-stein-ag/","hash":"2a298153bcee33db7762063e5c978f487b6d77446191645429bc6b882860da3e"}
@@ -3249,7 +3249,7 @@
 {"path":"cerca-lavoro-glarona/flex-pool-care-schweizer-paraplegiker-gruppe-nottwil/","hash":"6a996a3d06b01587fcad79db3f80da6f9da4f701284ec62a8cb704cbf4ed4e5c"}
 {"path":"cerca-lavoro-glarona/flex-pool-professionista-della-cura-hf-fh-dnii-dni-fage-ags-ph-srk-flessibilita-oraria-a-ore-concara-domicil-spitex-bern/","hash":"7e5cede3d004af2ed2097c94a400792e9388a27ae2ab16c36a8aa5f394352b91"}
 {"path":"cerca-lavoro-glarona/flexpool-esperto-a-di-cure-di-emergenza-nds-hf-diplomato-a-in-assistenza-infermieristica-hf-con-esperienza-in-emergenze/","hash":"0ba157628dd336ec723d7ad9c7765b849c14402ec30d002cd120751012235ff5"}
-{"path":"cerca-lavoro-glarona/formatore-a-di-anestesia-infermieristica-nds-hf-40-hoch-health-ostschweiz-uznach/","hash":"c4b8af3d029d7df17af2c63c791d8656e8c32fee49f160293e47448f0eb47a91"}
+{"path":"cerca-lavoro-glarona/formatore-a-di-anestesia-infermieristica-nds-hf-40-hoch-health-ostschweiz-uznach/","hash":"5214421f87e90a6731f4b630386bd1b8964eb5e1244a81153165b3659ab2b13c"}
 {"path":"cerca-lavoro-glarona/formatore-a-di-professioni-sanitarie-80-100-zurzach-care-baden/","hash":"a77c234be1b82adbde77c400a8ccdde4489a4df8ccbc1d35aaa9689230827193"}
 {"path":"cerca-lavoro-glarona/formatore-a-professionale-dipl-infermiere-a-hf-fh-klinik-lengg-zurich/","hash":"331dde41ac207e1872cf22e0b388db8ed1d4ffdbf9ca9d54375babb1a842471a"}
 {"path":"cerca-lavoro-glarona/formatore-formatrice-di-professione-tecnica-di-sala-operatoria-uomo-donna-solothurner-spitaler-ag-soh-olten/","hash":"969f3d6454bd41fb3e8bbd1ea62a4b9ce1ee82816177b0dfbee14d23e9b9a84b"}
@@ -3275,7 +3275,7 @@
 {"path":"cerca-lavoro-glarona/formazione-infermiere-dipl-sss-3-anni-regolare-marzo-2027-zag-spital-thurgau-stgag-kantonsspital-munsterlingen/","hash":"a5bf5b8afa6ce044464043cc002becfc4c82aae31045fce9d6b15888faf704f5"}
 {"path":"cerca-lavoro-glarona/formazione-infermiere-i-infermiere-i-specialisti-hf-universitatsklinik-balgrist-zurich/","hash":"6b5adb1cf4e40c7a3d5e57af046e292de4cface0ed72ebef9779d6451df78ada"}
 {"path":"cerca-lavoro-glarona/formazione-per-dipl-infermiere-a-hf-con-posto-di-studio-2027-tertianum-solothurn/","hash":"9be05878e7e9d9c223438e81d7349513b848376a7fce4f579d98e376e881232e"}
-{"path":"cerca-lavoro-glarona/formazione-per-dipl-infermiere-a-hf-presso-bzgs-a-san-gallo-con-stipendio-completo-tertianum-egnach/","hash":"b9a81c9d429e39f29a7723385cd7be2019b410f85f185b0d0331adf5ef5ff419"}
+{"path":"cerca-lavoro-glarona/formazione-per-dipl-infermiere-a-hf-presso-bzgs-a-san-gallo-con-stipendio-completo-tertianum-egnach/","hash":"747d665fff183ef86d1fb60c9249f1de45def4d1ce38d98d04229badcf936771"}
 {"path":"cerca-lavoro-glarona/formazione-per-diventare-infermiere-a-dipl-con-posto-di-studio-tertianum-degersheim/","hash":"666984f7c35e115149b211bb8c0acc38f4d8d7aaddb73306b88e2ec996a0ff1e"}
 {"path":"cerca-lavoro-glarona/formazione-per-il-dipl-specialista-hf-con-sede-di-studio-tertianum-berlingen/","hash":"2faae295b27742439d03143a8be898ded4b5b564a6e3c7b31fca7ab4cf883358"}
 {"path":"cerca-lavoro-glarona/formazione-per-infermiere-professionale-diplomato-hf-2-anni-di-formazione-settembre-2026-hoch-health-ostschweiz-st/","hash":"a31c2148c03ea94ee68ff2c46d93af4a68dd6df8eb88a2919d9df862cdac281c"}
@@ -3320,7 +3320,7 @@
 {"path":"cerca-lavoro-glarona/gestione-degli-affari-regolatori-100-f-m-d-bachem-ag-bubendorf/","hash":"dd8357934cb55a4691bdcd14c398cb46a3fe2d77e22fd16a6e72b208b3966096"}
 {"path":"cerca-lavoro-glarona/gestione-dei-casi-dei-dipendenti-60-70-m-f-universitats-kinderspital-zurich-zurich/","hash":"03ffaf29a2fdf42d9647bf4735db9b51262d1cb6affcdb3462812b7b97e61ef0"}
 {"path":"cerca-lavoro-glarona/gestione-dei-crediti-per-il-cancelliere-gestione-dei-crediti-francese-tedesco-migros-pensionskasse-schlieren/","hash":"d4b4b01d0207f853c0b8b542e15196d804d1a660d9469b07857a4177eb56d837"}
-{"path":"cerca-lavoro-glarona/gestione-del-gruppo-90-spitaler-fmi-ag-frutigen/","hash":"3c7f29148d444a8880132eb85da5bfe5a32852faee2a739304853de37d5912aa"}
+{"path":"cerca-lavoro-glarona/gestione-del-gruppo-90-spitaler-fmi-ag-frutigen/","hash":"2a753dd99659585146b7f99a44441900cb01756aba2b702fe7b3b05a417d6da5"}
 {"path":"cerca-lavoro-glarona/gestione-del-prodotto-m-d-axpo-group-dottingen/","hash":"d488dc851b31b37b7756ae366350becbbd46a198a4ddcaf0e2c4696e3a0ccdd5"}
 {"path":"cerca-lavoro-glarona/gestione-del-prodotto-m-d-solothurner-spitaler-soh-solothurn/","hash":"f11aee1d85968c22f4428f90af355ce7aee043be6caf8c0a31de0a5f0602f16b"}
 {"path":"cerca-lavoro-glarona/gestione-del-progetto-sviluppo-del-mercato-e-vendita-f-inal-f-m-d-fenaco-zurich/","hash":"2e73d6deb90aa46f2bb5fa64e71d892ac74ce53dc26c48e016db1ccbdf36560c"}
@@ -3448,7 +3448,7 @@
 {"path":"cerca-lavoro-glarona/individualkundenberater-w-m-d-raiffeisen-baden/","hash":"cce99cacbdfc39634003cee32e4c8d0a529f2c113ad9745660c238b44eb1fd8e"}
 {"path":"cerca-lavoro-glarona/infermiera-80-molaine-fondation-de-nant-corsier-sur-vevey/","hash":"0efd6fd9f21b3b3b6c379076cd38efe7b9d143f3fbf5f99cbabb88691d18d435"}
 {"path":"cerca-lavoro-glarona/infermiera-a-psichiatria-del-pensionamento-ambulatorio-cerca-spital-emmental-burgdorf/","hash":"989e70ba10af92b7756198e6fe3b124a7dc1abf41973f5714d2205df45e7a7b0"}
-{"path":"cerca-lavoro-glarona/infermiera-a-spital-emmental-burgdorf/","hash":"0e3ac94de9ecb93f1e97acd5400a9ab4ed5f5f079be7e9f08bb40a63e0c33afa"}
+{"path":"cerca-lavoro-glarona/infermiera-a-spital-emmental-burgdorf/","hash":"742cb5f7dc56305ac0a58e55071ea5f0262513d62fb335d38cf0d20133c9c568"}
 {"path":"cerca-lavoro-glarona/infermiera-all-80-100-ems-the-pavilion-hopital-de-lavaux-bourg-en-lavaux/","hash":"85b20e73085f495509be184705c0be5ad763e07cfa34272563558d993a12e64a"}
 {"path":"cerca-lavoro-glarona/infermiera-all-80-hirslanden-klinik-lausanne/","hash":"1d7e30d5b90bba11336ee281c60c86c2f3ec5595ab285188368eec45e5673566"}
 {"path":"cerca-lavoro-glarona/infermiera-anestesista-hopital-du-jura-h-ju-delemont/","hash":"3565dd856dba1c9784f6acd06f471653ad3fb7541a306d7f9551a6c1c286b742"}
@@ -3486,7 +3486,7 @@
 {"path":"cerca-lavoro-glarona/infermiera-infermiere-dipl-cliniche-chirurgiche-w-m-d-solothurner-spitaler-ag-soh-solothurn/","hash":"b6fb0c5cf020bd66ccfe05f7cf4a8418d294d08fdf4f1d4a083f81fac84d412a"}
 {"path":"cerca-lavoro-glarona/infermiera-infermiere-hf-fh-60-100-medicina-spitaler-fmi-ag-unterseen/","hash":"6c0e2f5f68d261a5d87f09a6b4ccec564ca5aefe38018ccff03728b06fe30041"}
 {"path":"cerca-lavoro-glarona/infermiera-infermiere-in-formazione-somatica-3-anni-ridotto-2-anni-m-f-solothurner-spitaler-ag-soh-olten/","hash":"fe4f5d462f3d3e815bd4e7c26c82c88ce8d124da1022cd7bd919a4fcf795f313"}
-{"path":"cerca-lavoro-glarona/infermiera-laureata-80-90-clienia-ag-pfaffikon/","hash":"6acc53fba27d5302fabc1c7c83e1ed61448619f8ed8ddc6a7f859f373ee63638"}
+{"path":"cerca-lavoro-glarona/infermiera-laureata-80-90-clienia-ag-pfaffikon/","hash":"72e84c8ec750bd24c884aab4cfef39ffceabd996065d52a9f739f0404b6176a2"}
 {"path":"cerca-lavoro-glarona/infermiera-laureata-hf-60-100-entero-egliswil/","hash":"15b130fef408d00dd3861a050875819bb63aea39305dd19a0c709fdd81354720"}
 {"path":"cerca-lavoro-glarona/infermiera-laureata-hf-fh-kinder-spitex-pediatrica-a-anche-possibile-entro-l-ora-spitex-basel-basel/","hash":"a771392c6d11410fa7d1f1dc22959c2d1dbd3a99e7a3330fe1c98e29a635ec7a"}
 {"path":"cerca-lavoro-glarona/infermiera-laureata-hf-fh-m-f-d-80-100-clienia-ag-pfaffikon-zh/","hash":"cee2d1883c4173912c24960d12e70cb1e12d31f47cd47155bcc087b2b9821570"}
@@ -3510,7 +3510,7 @@
 {"path":"cerca-lavoro-glarona/infermiere-a-di-psichiatria-spitaler-fmi-ag-unterseen/","hash":"3f3867ec8e745a7c35187385ef7bdc35a0b78c1f3289ae5bb69b58590a4f0bff"}
 {"path":"cerca-lavoro-glarona/infermiere-a-di-ricerca-clinica-eoc-ente-ospedaliero-cantonale-bellinzona/","hash":"c443c918ca946301e92ca36e20bd905870d90b94d2bc75c894d368b106f398d5"}
 {"path":"cerca-lavoro-glarona/infermiere-a-di-zona-kantonsspital-baselland-ksbl-liestal/","hash":"9267af32b986fef13490d3f626c3d4afef42e2511cdc87f8f6dc70fe35bc1703"}
-{"path":"cerca-lavoro-glarona/infermiere-a-diplomato-a-40-100-hoch-health-ostschweiz-st-gallen/","hash":"c20635ef633366f4679dd00fe9a8c0a4e714128cf1b54ffc615f46868019073f"}
+{"path":"cerca-lavoro-glarona/infermiere-a-diplomato-a-40-100-hoch-health-ostschweiz-st-gallen/","hash":"23a9dc0e45f52b27cdc9d3c53670e40875112b3347a6b11fd981e24dc0d36332"}
 {"path":"cerca-lavoro-glarona/infermiere-a-diplomato-a-hf-50-100-cure-palliative-medicina-interna-spital-schwyz-schwyz/","hash":"ff17ee54a953a2f72a3fd376ec2ffec1af8b3184bc42852392e6a73709da2fad"}
 {"path":"cerca-lavoro-glarona/infermiere-a-diplomato-a-hf-come-responsabile-di-reparto-pflegezentrum-sonnweid-wetzikon/","hash":"2b4dcc58a4df16b9baf41e8f1c230a139bc4d3af2a8c682ce1dd82965bb8c9ba"}
 {"path":"cerca-lavoro-glarona/infermiere-a-diplomato-a-intermediate-care-imc-70-100-hirslanden-klinik-ticino/","hash":"2bb7e96fd9b48d02095091b31e8d565a77c062eb3c1ad6e7c2f2fc9ef461c7fa"}
@@ -3528,7 +3528,7 @@
 {"path":"cerca-lavoro-glarona/infermiere-a-specializzato-a-in-anestesia-eoc-ente-ospedaliero-cantonale-mendrisio/","hash":"c8eb38500e141976e6ada29363c7954257f4793dfe8364f52bf61f1a43818a02"}
 {"path":"cerca-lavoro-glarona/infermiere-a-specializzato-a-in-cure-intense-eoc-ente-ospedaliero-cantonale-mendrisio/","hash":"76a37da3ce997dcef9c3e604d63c7ddfb10da47e27a890a41df0554a36374f85"}
 {"path":"cerca-lavoro-glarona/infermiere-a-specializzato-a-in-cure-urgenti-e-pronto-soccorso-eoc-ente-ospedaliero-cantonale-mendrisio/","hash":"dc56bcba6208a79e68d4ccf94bde75ef70f06c1b70400612abedd1a8b3f0eeac"}
-{"path":"cerca-lavoro-glarona/infermiere-a-specializzato-a-spital-mannedorf-mannedorf/","hash":"1483ec9d083e2df5bec8ae4eb6948eac6610cb9a50dd41aafd97faafede34e20"}
+{"path":"cerca-lavoro-glarona/infermiere-a-specializzato-a-spital-mannedorf-mannedorf/","hash":"3bb443da712d0c63a7d55679e677902cbe130b655f33f938a303228d7cd35416"}
 {"path":"cerca-lavoro-glarona/infermiere-animale-messa-a-fuoco-su-chirurgia-cavallo-universitat-zurich-zurich/","hash":"b6b598037fb53f9b73eaf1ad13d6154273ea4e0937bf3e517bf55ee6edb8dace"}
 {"path":"cerca-lavoro-glarona/infermiere-certificata-clinica-femminile-urologia-a-kantonsspital-baselland-ksbl-liestal/","hash":"e76856c340a608a6cf0ef793d7760fb99fc7937d0900a61a8944696d29ff1d14"}
 {"path":"cerca-lavoro-glarona/infermiere-di-campo-h-f-80-fondation-soins-lausanne-fondation-soins-lausanne-lausanne/","hash":"15b2444428731182172ff71b26ccf1476cd935276d99e4cb1b658bdd39cd17a0"}
@@ -3559,7 +3559,7 @@
 {"path":"cerca-lavoro-glarona/infermiere-iinfermiere-diploma-springerpool-20-100-hoch-health-ostschweiz-st-gallen/","hash":"199e0c9c2149367cf0d1f3f7d648efb1cb75b084a6b163306998d00105d36a88"}
 {"path":"cerca-lavoro-glarona/infermiere-in-cardiologia-interventistica-clinique-de-la-source-lausanne/","hash":"f8d2d45f42c102abd3774c8705656b95ed2b059763d9f531c12fbccb7d73e844"}
 {"path":"cerca-lavoro-glarona/infermiere-infermiere-di-formazione-hf-in-psichiatria-4-anni-uomo-donna-solothurner-spitaler-ag-soh-solothurn/","hash":"206df974276510a837688e94fb5a2f987bb3cd7ec4581a09ac105cd0cbf10a2c"}
-{"path":"cerca-lavoro-glarona/infermiere-infermiere-di-grado-accademico-hf-fh-chirurgia-ortopedia-60-100-spitaler-fmi-ag-unterseen/","hash":"fe0f7ab24244246a99dc909d1764b0b80eae1e4c6ffd21bfc44e72f1b203a61a"}
+{"path":"cerca-lavoro-glarona/infermiere-infermiere-di-grado-accademico-hf-fh-chirurgia-ortopedia-60-100-spitaler-fmi-ag-unterseen/","hash":"94df54d1b22e0920223e0cbf0c378df8f70d97fb3066fa36237b46fc4e20f493"}
 {"path":"cerca-lavoro-glarona/infermiere-infermiere-di-grado-hf-fh-come-springer-a-in-chirurgia-80-100-luzerner-kantonsspital-luks-luzern/","hash":"a6f5c99d6ea5bd5836c865bda29ea5d8f14f40d742a0ef17299c5fddabd5bf5b"}
 {"path":"cerca-lavoro-glarona/infermiere-infermiere-di-professione-40-100-10-ovest-luzerner-kantonsspital-luks-luzern/","hash":"41fc3031da534bd393e8f63b29bed01116def05c5337b47623f15523cb61059f"}
 {"path":"cerca-lavoro-glarona/infermiere-infermiere-diplomato-a-hf-fh-come-springer-a-40-100-luzerner-kantonsspital-luks-luzern/","hash":"69404729d59ca53796e67eaec06b459c24401ca200212f0cf532284a09054f90"}
@@ -3585,7 +3585,7 @@
 {"path":"cerca-lavoro-glarona/infermiere-specialista-avanzato-isa-specialista-clinico-20-80-kantonsspital-baden-ksb-baden/","hash":"1d970619f8b37c6a64eb920f68abaf873a2e090724ed2e660b5d95ef41c5165a"}
 {"path":"cerca-lavoro-glarona/infermiere-specializzato-in-cure-intensive-f-h-ensemble-hospitalier-de-la-cote-ehc-morges/","hash":"7b1e1500701e8dcd5c929870ee429e3d8a3c3da45c7baad2894d677501677597"}
 {"path":"cerca-lavoro-glarona/infermiere-specializzato-in-psichiatria-nel-turno-di-notte-50-100-spitaler-fmi-ag-frutigen/","hash":"fa5d19fd23e273784991b272aea7691e79b4cbfa791dad3b06c178621ad88698"}
-{"path":"cerca-lavoro-glarona/infermiere-strumentali-clinique-generale-beaulieu-geneve/","hash":"6e1048addf38fee5387a906e1128e80f17fb2a248309f67215faaa841a4d9a50"}
+{"path":"cerca-lavoro-glarona/infermiere-strumentali-clinique-generale-beaulieu-geneve/","hash":"d22a934f0495d85a41e187a697e4e18aa4b6d22bdb0851d656ec8a76e9b7ef34"}
 {"path":"cerca-lavoro-glarona/infermiere-urgenze-adulti-hirslanden-klinik-geneve/","hash":"b35d45f7e103c3255acb114967edac5b3f4d524e00f43b5982eea191b3505ca8"}
 {"path":"cerca-lavoro-glarona/infermieri-qualificati-hf-fh-nei-turni-notturni-e-notturni-psychiatrische-dienste-aargau-pdag-windisch/","hash":"0dbdeb50165261957598cd42f73b46fc279d4663765ecdba953365e353a27b5d"}
 {"path":"cerca-lavoro-glarona/infermieristica-certificata-in-unita-di-cura-acuta-kjp-psychiatrische-dienste-aargau-pdag-windisch/","hash":"419adba208fc8b26d3af2e75be3bfe101e43afc66beca114132e27fd8bbdbaf2"}
@@ -3618,7 +3618,7 @@
 {"path":"cerca-lavoro-glarona/ingegnere-di-convalida-100-medartis-basel/","hash":"98c9b1c5f8594f6aed69c259a6e9f692f48cf16bb5db97a5e767932410329982"}
 {"path":"cerca-lavoro-glarona/ingegnere-di-manipolazione-di-reclami-software-medico-roche-basel/","hash":"c74f4fdc88b20eb517fbc5d2f3b8e062906972e9a8db94c010ac10aa111bf323"}
 {"path":"cerca-lavoro-glarona/ingegnere-di-manutenzione-m-w-d-eisberg-osterreich-gmbh-marchtrenk/","hash":"417100e4cb5da19bb68973a3008025fa0d90780495d5cfff732589c4a8fd8f6d"}
-{"path":"cerca-lavoro-glarona/ingegnere-di-piattaforma-f-m-d-100-bachem-ag-bubendorf/","hash":"a3ad602c283ad1ef9d92fd97836518d226b475fce16f8079564989e8005eb1ca"}
+{"path":"cerca-lavoro-glarona/ingegnere-di-piattaforma-f-m-d-100-bachem-ag-bubendorf/","hash":"6acc93dc6a269ac85687ec4fef3e333a83f5139a08cef476c05e67d5c3034c9c"}
 {"path":"cerca-lavoro-glarona/ingegnere-di-processo-h-f-x-liebherr-bulle/","hash":"eef0bc81f21f3233ff8fe2497793c753569f1a6a365e52c2849195ffdc8ebd2a"}
 {"path":"cerca-lavoro-glarona/ingegnere-di-produzione-100-medartis-basel/","hash":"2929e76808876e798430230701b9d8e67f6eff8e7a8ef0d789c1dd3e78ea9c22"}
 {"path":"cerca-lavoro-glarona/ingegnere-di-produzione-elettronica-tecan-mannedorf/","hash":"c97918adb56769d96e29a18b9053a2da172ceb7b8eb6775570372e37ddec2a0b"}
@@ -3757,7 +3757,7 @@
 {"path":"cerca-lavoro-glarona/java-kotlin-software-ingegnere-f-u00fcr-den-handel-m-w-d-zurcher-kantonalbank-zurich/","hash":"54e8be105cc9bf7b0384bfd514d4ece720c7509649b15e99afdecdb17e7fe54e"}
 {"path":"cerca-lavoro-glarona/jeunes-talents-de-direction-retail-1-coop-genossenschaft-glarus-ti4z9x/","hash":"fc00208d0217de426a2070687f535a6f00f41d505865514778632c22ba5baa95"}
 {"path":"cerca-lavoro-glarona/junior-application-tech-specialista-m-w-d-dutch-speaking-roche-basel/","hash":"bb21e39dea33e1f1ca99e0600375b57d89ee28ff9d3e217d5aa8717eb434b703"}
-{"path":"cerca-lavoro-glarona/junior-building-manager-cdd-fino-al-30-11-2026-livit-ag-geneve/","hash":"2d4c8ea422328dea60d4c98945d65ca4a3596656248907ce656659ac1dd18c22"}
+{"path":"cerca-lavoro-glarona/junior-building-manager-cdd-fino-al-30-11-2026-livit-ag-geneve/","hash":"73e4fcd4c7d3183de2335877c86e78e0aa226e292adfd2cb7accb27c5139f318"}
 {"path":"cerca-lavoro-glarona/junior-chef-di-cucina-catering-services-migros-dierikon-3ytq2u/","hash":"14264e6a48a8c807241063e88a682c160df5f792436c3a7ce23a9d5ba38b836d"}
 {"path":"cerca-lavoro-glarona/junior-consulente-clienti-f-m-d-schwyz-programma-di-eccellenza-vendite-helvetia-versicherungen-schwyz/","hash":"dc7e4804e1eb16d9eb17be3fa06b022e32191651aa26b7ef9cd16e50a2601157"}
 {"path":"cerca-lavoro-glarona/junior-project-manager-a-elektro-gisikon-opfikon-implenia-gisikon/","hash":"a47233cacee523d4c60716cd3bc3f636c5e888e4d03d7f6903884951a4e8cdfb"}
@@ -3880,12 +3880,12 @@
 {"path":"cerca-lavoro-glarona/linea-di-stazione-stv-dall-80-klinik-seeschau-kreuzlingen/","hash":"00b2044e962f4c05f219083f862704dd089fff2fef054fab472fc02ced0b08d9"}
 {"path":"cerca-lavoro-glarona/livraison-en-lettres-et-en-colis-die-schweizerische-post-ennenda/","hash":"59b4ba7b1f5657aaca3f3dfbc29912eca357471c9374b0bdbaea3df4d40ea886"}
 {"path":"cerca-lavoro-glarona/logista-di-piazzale-cat-c-railcare-bern/","hash":"72ca2de357bd5a6367506cfd92f9dc1197a5fc0f65eba8ebdea5848b4b981c0a"}
-{"path":"cerca-lavoro-glarona/logistica-del-proprietario-del-prodotto-h-f-rolex-geneve/","hash":"745b2dba25a243e399d5c2f3ca5bb312cc32c1b0e61eaa688b12665c91cb9213"}
+{"path":"cerca-lavoro-glarona/logistica-del-proprietario-del-prodotto-h-f-rolex-geneve/","hash":"40ba8cc9e641574a76145edd1d284a9e076f21b2b7b7ce619d3c9d717515d8ef"}
 {"path":"cerca-lavoro-glarona/logisticista-high-bay-magazzino-emil-frey-safenwil/","hash":"0b5881824c9f251ae59c6d7cbac038cd114bb38d2198138e095b361bcc2f378b"}
 {"path":"cerca-lavoro-glarona/logistiker-im-getrankelager-m-w-d-heineken-switzerland-davos/","hash":"88adf0124f21ab70b875fa884e78c0be4dc46c78b0abd2a43bfaf202599e08de"}
 {"path":"cerca-lavoro-glarona/logistiker-wareneingang-m-w-d-birsfelden-delica-ag-birsfelden/","hash":"57f1c6984728188ea31c403974b044ee65ef65fbd5505aa4c5a847ad89599da3"}
 {"path":"cerca-lavoro-glarona/logistikerin-logistiker-cfc-m-w-d-ramseier-suisse-ag-oberkirch/","hash":"3d11f50e8ed7237f2d96e4f21940a731dea22824145e97f13210696e79bc1875"}
-{"path":"cerca-lavoro-glarona/logopadin-logopade-ksw-ch/","hash":"db55fa38cf0cd2d73848d82b4236320f5dbfe939edacbcbd688ecbc4335127f3"}
+{"path":"cerca-lavoro-glarona/logopadin-logopade-ksw-ch/","hash":"6d17e281d399397b0909c2f12d689e6505db0475a0ffcda8b5b4ea4c50e41f23"}
 {"path":"cerca-lavoro-glarona/logopedista-60-100-cereneo-weggis/","hash":"8761daa964b2fa7253232fb7c1e8565acce276496eb36a4a82b4cca8747336e8"}
 {"path":"cerca-lavoro-glarona/logopedista-dal-50-all-80-stiftung-bachtelen-grenchen-und-solothurn/","hash":"f095266e6cb5ec1db4aaacfccb6105078dc32c058df6593f311d5490b70825b9"}
 {"path":"cerca-lavoro-glarona/luogo-di-formazione-per-per-il-dipl-expert-expert-anesthesia-care-nds-hf-80-100-luzerner-kantonsspital-luks-luzern/","hash":"619aab81bb3b4ce7dcdcbe39a469e7a9fb9ad9bbbc17a6d6846a5ef354ef1180"}
@@ -3904,15 +3904,15 @@
 {"path":"cerca-lavoro-glarona/macellaio-a-specialista-in-carne-coop-genossenschaft-klosters-serneus/","hash":"303e00b631434904c33fe4d1ee33a7b19ea0a511e95aa41dc4130eff5b9518fa"}
 {"path":"cerca-lavoro-glarona/macellaio-specialista-della-carne-coop-genossenschaft-affoltern-am-albis/","hash":"094918ec9e18194c323685463f7b969535ace295cf7ac6b6482aae637c8c2502"}
 {"path":"cerca-lavoro-glarona/macellaio-specialista-della-carne-coop-genossenschaft-cham/","hash":"4fd13791ca266ad9b64c593773cf92ae5cb920c85a5ab46dc8be5347f60686ca"}
-{"path":"cerca-lavoro-glarona/macellaio-specialista-della-carne-coop-genossenschaft-chur/","hash":"4e5487de6152de42aa079e103e0c0d2986a8b836b939cfe640f48b974f0ae3ba"}
+{"path":"cerca-lavoro-glarona/macellaio-specialista-della-carne-coop-genossenschaft-chur/","hash":"87d69bcae2798641910f27c7b6de90b61f376be35232f00cd641c719e29cf079"}
 {"path":"cerca-lavoro-glarona/macellaio-specialista-della-carne-coop-genossenschaft-einsiedeln/","hash":"e2054c393ec2a50a229dc07d22500607f6b5b0b68910e4165aa51b4cf4d7ca13"}
 {"path":"cerca-lavoro-glarona/macellaio-specialista-della-carne-coop-genossenschaft-erstfeld/","hash":"3e9b92a26ef11872a3c441d5cae7fd1c4bbb71b8c4317e645a13d6c3f8db4400"}
 {"path":"cerca-lavoro-glarona/macellaio-specialista-della-carne-coop-genossenschaft-frauenfeld/","hash":"3c4e0a4bf1d9deb3b9642e4f01c6f4fc955e09eeb3d3e44992189a631a3d265d"}
 {"path":"cerca-lavoro-glarona/macellaio-specialista-della-carne-coop-genossenschaft-herzogenbuchsee/","hash":"a6c2bc6b7fca1b533c8134a713de90c38fa601ac023c75254b0887fcad4f48fa"}
-{"path":"cerca-lavoro-glarona/macellaio-specialista-della-carne-coop-genossenschaft-meggen/","hash":"0c6b6bf7fec695d89cabc816c381b2f5ea6da95ffddd1f069bc6d0aed23ce44e"}
+{"path":"cerca-lavoro-glarona/macellaio-specialista-della-carne-coop-genossenschaft-meggen/","hash":"5b3d997c64ab1eb2223ca33f0807c9a2428d9254dcc26397058713a73003b384"}
 {"path":"cerca-lavoro-glarona/macellaio-specialista-della-carne-coop-genossenschaft-plaffeien/","hash":"db5996611608b1ab00171f1c41ce4cbf509b4f82a42909a10201d3e276a0b271"}
 {"path":"cerca-lavoro-glarona/macellaio-specialista-della-carne-coop-genossenschaft-worb/","hash":"8bbf48def94980a4eb72df81b7734f23507582b29c281cea55502e1384f2ab47"}
-{"path":"cerca-lavoro-glarona/macellaio-specialista-di-carne-specialista-di-carne-coop-genossenschaft-biel/","hash":"51804dd2729f3eeb40ee0d42e352074f7cc10d062bc4c0e183f988b381fb022f"}
+{"path":"cerca-lavoro-glarona/macellaio-specialista-di-carne-specialista-di-carne-coop-genossenschaft-biel/","hash":"7ec567b331a5bb9c5accd9512ed3350d97533b77e8e805e114cf9cf6bb248075"}
 {"path":"cerca-lavoro-glarona/macellaio-specialista-in-carne-regione-baselland-coop-genossenschaft-liestal/","hash":"f1cb388067a29b1f8022fa90321244d86ab14d58df168a609ff84753c334378a"}
 {"path":"cerca-lavoro-glarona/macello-meccanico-operativo-bell-schweiz-ag-oensingen/","hash":"15a4108e187d8e7551ca52443a02d058d98b9a12c8166938946225e829ed11e6"}
 {"path":"cerca-lavoro-glarona/maestro-fitness-trampolino-jumping-f-m-d-club-school-lucerne-klubschule-migros-luzern/","hash":"dc175c93638cad8e5fcf3d5e0e97988ca4f6929c5a3c9ea21252caf32cfdc798"}
@@ -3971,7 +3971,7 @@
 {"path":"cerca-lavoro-glarona/mansioni-richieste-hirslanden-klinik-search-65480e/","hash":"f76c39315ffb3dc285bad69409f9d0df4dce80c19fd29a9c02e2c19062fc3b56"}
 {"path":"cerca-lavoro-glarona/mansioni-richieste-hirslanden-klinik-search-65fa31/","hash":"bdd0f9d332f064c45439dcde85e44d1af4da4993bb1673ce69c348b67a8bc818"}
 {"path":"cerca-lavoro-glarona/mansioni-richieste-hirslanden-klinik-search-69c953/","hash":"8f627e4aa09c4d28fae86b95b463d2837b87f4cb47860367e3b77a457d98949c"}
-{"path":"cerca-lavoro-glarona/mansioni-richieste-hirslanden-klinik-search-6c03cb/","hash":"40874fbe32beaeb47746fc7522401523503b36af898b09053678af8f87c918ec"}
+{"path":"cerca-lavoro-glarona/mansioni-richieste-hirslanden-klinik-search-6c03cb/","hash":"e5acf96724dcbfd6f75fdb878c990a6fe01e9805f27ec3fbfcffa92f590c38d1"}
 {"path":"cerca-lavoro-glarona/mansioni-richieste-hirslanden-klinik-search-6d4f70/","hash":"ff02a36d5b7111ee95ca48ea9cf7fa79d2c5e7b7612a1d941282b7754e5758e7"}
 {"path":"cerca-lavoro-glarona/mansioni-richieste-hirslanden-klinik-search-7252a8/","hash":"b7fa4ad1875155c48f5a08aab0c45bc29d5630c31c30ea2e54a4920d9258f162"}
 {"path":"cerca-lavoro-glarona/mansioni-richieste-hirslanden-klinik-search-73f8e1/","hash":"3a9458ac4e272dc83d4f9e18a8dcc6c142f4016b7021787b458f1b516cbd3631"}
@@ -4011,7 +4011,7 @@
 {"path":"cerca-lavoro-glarona/mansioni-richieste-hirslanden-klinik-search-dc179c/","hash":"606fc5f7045623efc5605ff3effcb6e62ffefe1a0f348eb8ea460d1d63735588"}
 {"path":"cerca-lavoro-glarona/mansioni-richieste-hirslanden-klinik-search-df4647/","hash":"5356e16a33139538ee0633890ce09aba5bcac7ae1b56a10c7093fd9f4f5102dc"}
 {"path":"cerca-lavoro-glarona/mansioni-richieste-hirslanden-klinik-search-e2b42a/","hash":"360428ee7bd919e56162e0ba442cec4d313fa7ed186a27c4378f9f1c8213d42c"}
-{"path":"cerca-lavoro-glarona/mansioni-richieste-hirslanden-klinik-search-e46638/","hash":"486d384d540c8410d8ad35be81a84a0eaf1a9b0f25f92eb02545d2b3b66854ac"}
+{"path":"cerca-lavoro-glarona/mansioni-richieste-hirslanden-klinik-search-e46638/","hash":"37896d676740a0f59a886280000a55bc61343eb1c513e98ec48e6cb5170a130d"}
 {"path":"cerca-lavoro-glarona/mansioni-richieste-hirslanden-klinik-search-e4f7ec/","hash":"81477a63ce02446232ea5f13d7e2e50c84d89e8ad66082695064650de0cf01a3"}
 {"path":"cerca-lavoro-glarona/mansioni-richieste-hirslanden-klinik-search-e601f7/","hash":"f72ae77e952f8190091e9113cecd514abd6fbf7f8390766eb3a3bcfbee5281bb"}
 {"path":"cerca-lavoro-glarona/mansioni-richieste-hirslanden-klinik-search-e6d4bc/","hash":"65f222475cabb7c68ca46b3cfd043ea925a27039b2eaaa66018b4b32faf5010c"}
@@ -4116,7 +4116,7 @@
 {"path":"cerca-lavoro-glarona/medico-capo-clinica-aggiunto-psicogeriatria-rif-r2026011-centre-neuchatelois-de-psychiatrie-cnp-neuchatel/","hash":"e8f67c150bce712bb59eb240025e35ede41891d7ff2b571e13adf962f985adc2"}
 {"path":"cerca-lavoro-glarona/medico-capo-con-co-responsabilita-80-100-w-m-d-luzerner-psychiatrie-lups-luzern/","hash":"8ef1a91e2ff7d4e6cdce4f059782d2a3493018c2dc69e0aa38f39b42e40cd489"}
 {"path":"cerca-lavoro-glarona/medico-capo-di-clinica-in-radiologia-f-h-ensemble-hospitalier-de-la-cote-ehc-morges/","hash":"c1a41fc7f4687b5fd4f7162d2c997a8161565a892b3d83b5fe6f3a2b2c35efcf"}
-{"path":"cerca-lavoro-glarona/medico-capo-in-radiologia-80-hopital-intercantonal-de-la-broye-hib-payerne/","hash":"85fe69562e04d32bdcc35948f3e11b6e480d7efcb5b9d88942a8a90c540d3fd4"}
+{"path":"cerca-lavoro-glarona/medico-capo-in-radiologia-80-hopital-intercantonal-de-la-broye-hib-payerne/","hash":"ccdd9e07b912840d0d2f090124cdd532afe01155f5e83d9882c97c7c45dab450"}
 {"path":"cerca-lavoro-glarona/medico-capo-medica-capo-m-f-d-80-100-psychiatrie-baselland-liestal/","hash":"d8db7f34827d063e8e39104d818fc01525b5b47b41a79218ba5801553f6a0db9"}
 {"path":"cerca-lavoro-glarona/medico-capo-o-vice-medico-per-medicina-interna-a-tafers-60-80-hopital-fribourgeois-hfr-hfr-tafers/","hash":"290b30ef5bb367ecae8da040f57f716279857d4ef08a106c47bf608170225cbd"}
 {"path":"cerca-lavoro-glarona/medico-capo-oncologia-60-100-spital-uster-uster/","hash":"1f2b82f5fbc183a0f97f542e51af0e807d1305a2f4da0d13e4698ca6b3007bdb"}
@@ -4313,7 +4313,7 @@
 {"path":"cerca-lavoro-glarona/mitarbeiterin-collaboratore-trice-direktionssekretariat-80-100-luzerner-kantonsspital-luks-stans/","hash":"c63b1236cc566504663accc20b640ab5d5a4332411c48cd71774988909090230"}
 {"path":"cerca-lavoro-glarona/mitarbeiterin-collaboratore-trice-gebaudetechnik-hlkks-fokus-warme-a-kantonsspital-baselland-ksbl-liestal/","hash":"9617d4089cf7872abd40e0e1ed3ba101989b22d68e7a5ca9c2ba37c7c4655756"}
 {"path":"cerca-lavoro-glarona/mitarbeiterin-collaboratore-trice-guest-relations-a-70-hirslanden-klinik-aarau/","hash":"1de8c90738a224348e1184edb9c08b1bbe2211f692ea96adc911a5455db1a505"}
-{"path":"cerca-lavoro-glarona/mitarbeiterin-collaboratore-trice-hauswirtschaft-psychiatrische-universitatsklinik-zurich-mannedorf/","hash":"8e2bd0b2d8998f35d1727c986dc330b27b9fdc89def8804998db472c64918767"}
+{"path":"cerca-lavoro-glarona/mitarbeiterin-collaboratore-trice-hauswirtschaft-psychiatrische-universitatsklinik-zurich-mannedorf/","hash":"d77d63a392a2886ed2750c664e0b88342a462a2fa808293be6bc1d2a9b4e1038"}
 {"path":"cerca-lavoro-glarona/mitarbeiterin-collaboratore-trice-hauswirtschaft-spezialreinigung-psychiatrische-universitatsklinik-zurich/","hash":"bb84825f201c15bc7c544e7893afd669a3a4c510b94dcce2502f6f11c81014b2"}
 {"path":"cerca-lavoro-glarona/mitarbeiterin-collaboratore-trice-hotelservice-a-30-hirslanden-klinik-aarau/","hash":"be67f1d733ee79a8c865ed187ee76899fdd98f6ad7e7c4fbc466c2b0f0dd7086"}
 {"path":"cerca-lavoro-glarona/mitarbeiterin-collaboratore-trice-management-support-kantonsspital-winterthur-ksw-winterthur/","hash":"00c7bfafe5f36087af3dc768de07d8d772a1cd3979116f68f4913f090d5b29ed"}
@@ -4372,7 +4372,7 @@
 {"path":"cerca-lavoro-glarona/mpa-segreteria-del-dottore-u00e4rin-zbm-80-gratuito-di-mercoledi-spital-limmattal-schlieren/","hash":"f0996e440c464125c533fe114250eed923da3f25e3a761d083b2c0aa119f58cf"}
 {"path":"cerca-lavoro-glarona/mpa-urologie-ambulatorium-a-ksbl-liestal/","hash":"04ca9085168e85f01bb56ad1dc4b781ae41067dbb83997a0cb141232c1a47d1f"}
 {"path":"cerca-lavoro-glarona/mutua-clinique-generale-beaulieu-geneve/","hash":"d1f0293f97aadb4a9234e9b18334f7c61d9b7c741162ec37ff0871744f5bd020"}
-{"path":"cerca-lavoro-glarona/nachdiplomstudium-hf-notfallpflege-spital-buelach-bulach/","hash":"d0e2806659b2ae9e8e8341a6e718961fdf685e83e23893c06702154db5e3a888"}
+{"path":"cerca-lavoro-glarona/nachdiplomstudium-hf-notfallpflege-spital-buelach-bulach/","hash":"b9b38acb52ec47ef7025f38a1e88de6d7c91449775bb6bb5d89a53664d9ed0fa"}
 {"path":"cerca-lavoro-glarona/nachdiplomstudium-notfallpflege-100-kantonsspital-baden-ksb-baden/","hash":"ce7077678f2156c24bf47becfe40afe14da99dd8f54fc5782f562ae77a7cc0bc"}
 {"path":"cerca-lavoro-glarona/nachdiplomstudium-notfallpflege-100-ksb-ch/","hash":"a7054b6c19ad55e9adff43c78a175490493ed279d3ba307cc1688f38a3bb5203"}
 {"path":"cerca-lavoro-glarona/nachwuchsfachperson-con-ziel-abteilungsleitung-fruchte-gemuse-region-bern-genossenschaft-migros-aare-urtenen-schonbuhl-erp6fx/","hash":"842a59f93bad26d37027d11beb87c488547ec1afbd04385b43cb9708c6825739"}
@@ -4436,7 +4436,7 @@
 {"path":"cerca-lavoro-glarona/offerta-di-lavoro-spontanea-assistenza-ospedaliera-ensemble-hospitalier-de-la-cote-ehc-morges/","hash":"220f8cb6c85a4cc6db82489a512a99ab1845fe0ca6eddfe3b19b554f55c81bd4"}
 {"path":"cerca-lavoro-glarona/offerta-spontanea-blocco-operatorio-anestesia-ambulanze-radiologia-ensemble-hospitalier-de-la-cote-ehc-morges/","hash":"6a7bea33e642c643fcc1f42a5940551cffa8094ac9a201fbd05156d99828cc2d"}
 {"path":"cerca-lavoro-glarona/offerta-spontanea-centri-medici-presenze-ensemble-hospitalier-de-la-cote-ehc-morges/","hash":"043ae8888f382fb423c3f9c0b17f34f1289c4be526662c03319b5854ebdecc3d"}
-{"path":"cerca-lavoro-glarona/offerta-spontanea-medico-medico-in-formazione-ensemble-hospitalier-de-la-cote-ehc-morges/","hash":"8600f47017cecdf5348384060653ad4959ec353a5d82cdefaa68eeb35540ae6b"}
+{"path":"cerca-lavoro-glarona/offerta-spontanea-medico-medico-in-formazione-ensemble-hospitalier-de-la-cote-ehc-morges/","hash":"7b6b48813c330551c47b4bb316eb0f258a2e935475cafeb7d165ec43528c09d8"}
 {"path":"cerca-lavoro-glarona/offiziere-per-friedensfordernde-auslandseinsatze-m-w-d-swiss-armed-forces-vtg-bern-qtsz9d/","hash":"4d58a2976bf33ee9ea85d0be93b1b6725d6e437622b01832d7c1926ed88a869c"}
 {"path":"cerca-lavoro-glarona/oncologia-del-medico-senior-see-spital-horgen/","hash":"5920c6d667bb237fc333f2cdaa4c764147507e6ff301f794552262e8b65cfbb4"}
 {"path":"cerca-lavoro-glarona/oncologia-specialistica-60-100-spitalzentrum-biel-centre-hospitalier-bienne-biel-bienne/","hash":"cbc6231efc457581276f6d627d726f926f9e0e694a16932bd6bcca2cf0f98836"}
@@ -4469,7 +4469,7 @@
 {"path":"cerca-lavoro-glarona/operatore-socio-sanitario-oss-m-f-d-60-100-con-funzione-aggiuntiva-di-formatore-professionale-kantonsspital-uri-altdorf/","hash":"049f07ba50ae288423c5ecd7aa8164497717dbc2f0874aba0b20836ca2c519ef"}
 {"path":"cerca-lavoro-glarona/operatore-socio-sanitario-oss-specializzazione-in-demenza-gesundheitszentrum-dielsdorf-dielsdorf/","hash":"f5f0468c96816e350ee134e754cdd922d49001d8928fc3f656147029d081b772"}
 {"path":"cerca-lavoro-glarona/operatore-socio-sanitario-per-turni-notturni-nel-pool-di-riserva-10-100-clienia-ag-pfaffikon/","hash":"7d9a977745894bc2b5fa5c18910afa94fc17c0e8531ccee7b4b29c76b3dc9061"}
-{"path":"cerca-lavoro-glarona/operatore-socio-sanitario-viva-luzern-luzern/","hash":"48673e0a1ec6c8d41e458f9e9e5578a8ff2dadb6a1a44f22818e3c788111f335"}
+{"path":"cerca-lavoro-glarona/operatore-socio-sanitario-viva-luzern-luzern/","hash":"57278ec6c36e943da8be7ca84e47eff2714a441ec2850814f040555a07199a13"}
 {"path":"cerca-lavoro-glarona/operatore-trice-di-assistenza-e-cura-come-vigilante-notturno-60-80-concara-domicil-spitex-bern-bern/","hash":"7ac850cb3e8b49051541ce352ef15b7e3a8154dd8b7ab504599421128f1da6a2"}
 {"path":"cerca-lavoro-glarona/operatore-trice-di-impianti-per-prodotti-surgelati-fresh-food-beverage-group-granichen-0gdxhj/","hash":"8fd6262aa031de0609e93eccf3daedb0ddfda26d70518c1eb31031aba6aecfc7"}
 {"path":"cerca-lavoro-glarona/operatore-trice-sociale-i-opzione-assistente-sociale-a-tempo-parziale-50-presso-l-organizzazione-sociopsichiatrica-cantonale-osc-centro-abit-213hpb/","hash":"0516659d44e1a98c9086cda142b6d28361ccdc396a98b60ddc4fa7a9cdc3da60"}
@@ -4690,7 +4690,7 @@
 {"path":"cerca-lavoro-glarona/praticantato-modulo-aggiuntivo-b-zmb-nella-cura-psichiatrica-privatklinik-wyss-munchenbuchsee/","hash":"1db6d2a6670ae4f1625296584d1764982ed8d28826e70e54cfdc3f1adb9af946"}
 {"path":"cerca-lavoro-glarona/praticante-amministrativo-a-100-eoc-ente-ospedaliero-cantonale-lugano/","hash":"f412e00e81c8f8fb0f9164fae5fc0d5c582b0da87d40b46b1f9a3f0f020da82c"}
 {"path":"cerca-lavoro-glarona/praticante-di-cura-m-f-100-3-4-mesi-universitats-kinderspital-zurich-zurich/","hash":"435fb1289c37d3d0c023cf395065aca21696cee67fcfbdbcdddfac537ec5a886"}
-{"path":"cerca-lavoro-glarona/praticante-in-infermieristica-w-m-d-80-100-psychiatrie-baselland-liestal/","hash":"f52d0b10df21ab7154bd51734264e96fc6894967dc653debfb1c14b6f4a67943"}
+{"path":"cerca-lavoro-glarona/praticante-in-infermieristica-w-m-d-80-100-psychiatrie-baselland-liestal/","hash":"82db114a89ed7d50f898177701856bea75f2ff55230d5efda2eb9b09535133c9"}
 {"path":"cerca-lavoro-glarona/praticante-infermieristico-eoc-ente-ospedaliero-cantonale-bellinzona/","hash":"92ca8e2c4d370d7005a119a2257e54cabbbcc1727697949a730fc702e5fd3fe4"}
 {"path":"cerca-lavoro-glarona/praxisbildner-in-viva-luzern-luzern/","hash":"1c4af881bc8338bc97c06684273c00c436a21da22d073263b0657a6933ae1cd4"}
 {"path":"cerca-lavoro-glarona/praxistag-ein-blick-hinter-la-kulissen-der-notfall-e-intensivpflege-padiatrie-kantonsspital-aarau-ksa-aarau/","hash":"763aa2a8939e15cc23a3917130df3cfce4e8b3e84ac63f58807678270bc23d1e"}
@@ -4734,7 +4734,7 @@
 {"path":"cerca-lavoro-glarona/primario-psichiatria-senile-a-spital-emmental-burgdorf/","hash":"6f3e975ea76ee5090acaa49c2b236496d3c1b3100efbb559ec04851f5bb0ba51"}
 {"path":"cerca-lavoro-glarona/primario-psychiatrische-dienste-aargau-pdag-windisch/","hash":"9a1bdc041909f5b8f56ac9894b17beddefc5e4a47a3ebaaf67594c4d35429fde"}
 {"path":"cerca-lavoro-glarona/principale-ingegnere-principale-principale-roche-basel/","hash":"a426a2acfc1f4b41e4c20d0f36739d67e0ab3d0144786e890fa03cc47671352d"}
-{"path":"cerca-lavoro-glarona/principale-medico-principal-medico-psychiatrische-dienste-aargau-pdag-windisch/","hash":"c28c0ec082e457e3aea58a76b5af9465ae15dfe4aa1a097be4ea95b3d4ac9f81"}
+{"path":"cerca-lavoro-glarona/principale-medico-principal-medico-psychiatrische-dienste-aargau-pdag-windisch/","hash":"c6b47b449d08953091c8e95c70682ae19fd1ec27db0c7e66ad10b2a164ca0f11"}
 {"path":"cerca-lavoro-glarona/principale-riedenhalden-day-school-stadt-zurich-zurich/","hash":"b2b3d3a9bb756613e8a0b8ff70f4607314059c9ff71f8f72f9e71dcc87d35a5d"}
 {"path":"cerca-lavoro-glarona/principale-scienziato-tech-ops-m-f-x-csl-behring-bern/","hash":"895c540b181eeba3622d97e9a733389cbbd385a7890efdab86457197ea62d837"}
 {"path":"cerca-lavoro-glarona/principali-hirslanden-klinik-search-2a6c4b/","hash":"844ed28cc0bba8b37719eae2ff68971c9b0c1008971f4fca6dd077cf61216382"}
@@ -4795,8 +4795,8 @@
 {"path":"cerca-lavoro-glarona/professionista-tecnico-del-supporto-alle-vendite-80-100-siemens-ostermundigen/","hash":"eb300b9e85753bbe712d78aa2663ae15a16f97942602deed3c11f72a63d8588b"}
 {"path":"cerca-lavoro-glarona/professionisti-della-salute-50-100-riabilitazione-acuta-geriatrica-spital-uster-uster/","hash":"a690b1b26593ba1078eab8d98ca7e340c79f83d546336debe202c864a580a6bb"}
 {"path":"cerca-lavoro-glarona/professore-di-antropologia-evolutiva-e-primatologia-universitat-zurich-zurich/","hash":"44cc15345d55ec07fab18002f39a3ca41c007ae382b0e1f2483db819cea965f8"}
-{"path":"cerca-lavoro-glarona/professore-di-neurologia-universitat-zurich-zurich/","hash":"61a77cd034d49b9be96ab5c5c5f7d15949211aad4a986879f31ab5c5ec889513"}
-{"path":"cerca-lavoro-glarona/professore-in-economia-di-genere-universitat-zurich-zurich/","hash":"a116472e669d08116cdb57d1a38601686406a48b6b95017fa25cb894f44bcc40"}
+{"path":"cerca-lavoro-glarona/professore-di-neurologia-universitat-zurich-zurich/","hash":"70f0cf2d263fec5feaf298c7e31f05fcd82bfe3ce7811f8492d3fdff46d45828"}
+{"path":"cerca-lavoro-glarona/professore-in-economia-di-genere-universitat-zurich-zurich/","hash":"d8656a4731e779ea7a8c5f5e7c49e589de2fc3f54681add93cf57ff3a564cac7"}
 {"path":"cerca-lavoro-glarona/professore-in-studi-del-nuovo-testamento-con-un-focus-sull-ebraismo-antico-universitat-zurich-zurich/","hash":"5b208b39d3f706fb85c53ffe42a8a82cede06bee99578695418103a439d9ef7e"}
 {"path":"cerca-lavoro-glarona/professoressa-straordinaria-in-traduzione-mr-methodology-universitat-bern-bern/","hash":"d205d952d40fe1bd94c4a653bcd554e2be307149d5a883eedf4aa4541936ed04"}
 {"path":"cerca-lavoro-glarona/professur-per-neurologie-universitat-zurich/","hash":"b907b011608a1972a4aced278ff61406e2a943dd0d4fea614f6ae17116b6f99e"}
@@ -4852,7 +4852,7 @@
 {"path":"cerca-lavoro-glarona/projektmanager-m-w-d-otis-sa-oberburen/","hash":"a583257736c0f58131f640568ba0c2057b883e448c375a10c6658bc4351e3245"}
 {"path":"cerca-lavoro-glarona/promoter-40-60-chocolaterie-bahnhofstrasse-zh-w-m-d-laderach-schweiz-ag-zurich/","hash":"15b31de7965785e9bf4bb7980149ad2dd38d7a9a2817e038e15d7ebd5e47b160"}
 {"path":"cerca-lavoro-glarona/prophylaxeassistent-in-universitat-zurich-zurich/","hash":"4aac271088c9d0d5bfc23ca51849408317cca630958347f618e60cbb170357a5"}
-{"path":"cerca-lavoro-glarona/proprietario-nei-locali-commerciali-livit-ag-zurich/","hash":"365d6c759ebe84de1245aa08871b8e9ee5d6d375e848dee5f9ccd683c817c7dd"}
+{"path":"cerca-lavoro-glarona/proprietario-nei-locali-commerciali-livit-ag-zurich/","hash":"53da3a13453f1f3b707ba7ce049cf087eb5868660a56147ea26c225899f75747"}
 {"path":"cerca-lavoro-glarona/psichiatra-infantile-ensemble-hospitalier-de-la-cote-ehc-morges/","hash":"67c6a2d7e7801cb6ae2790e7609eacf063b8a941f456474a79410b68be20f5df"}
 {"path":"cerca-lavoro-glarona/psichiatra-responsabile-40-80-clienia-ag-pfaffikon-zh/","hash":"f70acb7157873f97ac6a431b43998998cb1b644390d1004e10bbc8d7ca880345"}
 {"path":"cerca-lavoro-glarona/psichiatra-senior-ambulatorio-per-bambini-e-adolescenti-60-100-clienia-ag-pfaffikon-zh/","hash":"91d09ef0d4c221c0be017119ea771cd9c25a7b7707fd7db9ec256a5221b031e2"}
@@ -4887,7 +4887,7 @@
 {"path":"cerca-lavoro-glarona/psicologo-psicoterapia-40-psicologico-in-psychotherapeut-in-40-hopital-fribourgeois-hfr-fribourg/","hash":"f4f650dfe66ce4e286aaaac07d627a4bc10ff20f2f43362ba7876791d64cd07b"}
 {"path":"cerca-lavoro-glarona/psicologo-senior-psicologo-senior-integrierte-psychiatrie-winterthur-ipw-winterthur/","hash":"25d5d92c329e70c3c81b5a3da4f526ad913bd2c3ac35fe73f1411ab73451eca7"}
 {"path":"cerca-lavoro-glarona/psicologo-senior-psychiatrische-dienste-aargau-pdag-windisch/","hash":"2575b4a8e013e6f4e0431929834d575ef8c6b9674ecda679ec3285f8a1f31a84"}
-{"path":"cerca-lavoro-glarona/psicologo-senior-trattamento-a-casa-psychiatrische-dienste-aargau-pdag-windisch/","hash":"9d536c9e5066b05b9ea93c8fd0a7cd99ac846870915f68aa6484d82d301a8419"}
+{"path":"cerca-lavoro-glarona/psicologo-senior-trattamento-a-casa-psychiatrische-dienste-aargau-pdag-windisch/","hash":"ce52b8449d9761690b91ba9486811b2dd5d1ad53733d170bd8797939d9ceb495"}
 {"path":"cerca-lavoro-glarona/psicologo-specializzato-in-psicoterapia-klinik-sonnenhalde-riehen/","hash":"51337354c2ba8e89125e9a2787745fbee3f73f10c528ec99fbe1ea817ef84315"}
 {"path":"cerca-lavoro-glarona/psicologo-specializzato-klinik-sonnenhalde-riehen/","hash":"33b8f6b4cc712744f9d6bdf05e8bdbb0a7e2e8ce5111cecfac8adabadd0b5350"}
 {"path":"cerca-lavoro-glarona/psicologo-spital-thurgau-stgag-diessenhofen/","hash":"6005f2859748c6340e2962f123fa3a351f3a65fc8c77e548ba23076ef62ec669"}
@@ -5123,7 +5123,7 @@
 {"path":"cerca-lavoro-glarona/responsible-sourcing-data-analyst-richemont-bellevue/","hash":"afcdc7da11c90e499cf633951b1a5b7a4a70dcdd0191b0da255924e775cf24ab"}
 {"path":"cerca-lavoro-glarona/retail-business-projects-support-lead-w-m-d-laderach-bilten/","hash":"db7ca389334a87b21d73092f4cd65ac663751f68c618e3222c479d274086354c"}
 {"path":"cerca-lavoro-glarona/reti-company-electrician-80-100-f-m-d-ruag-ag-altdorf/","hash":"f59c91388b912afaa63d7dccedd4e643c3d6c0d8adc37519c6ea11a2a8c8fb4f"}
-{"path":"cerca-lavoro-glarona/rettifica-cnc-buhler-group-uzwil/","hash":"178f7b3b0a05b36ed1c106d5a8de9379600a50569c9a3fcf5bbb9084325cb0fb"}
+{"path":"cerca-lavoro-glarona/rettifica-cnc-buhler-group-uzwil/","hash":"e221ad9c01c55058e0ddae06eb335ff7a9418e04c64a7dfaeae02ed7bbb7ce52"}
 {"path":"cerca-lavoro-glarona/rettore-100-scuola-cantonale-di-baden-kanton-aargau-aarau/","hash":"e847503f9c4295bbb8364b7a82f34059d9e70bb483c2de58d05fcad8a57c965a"}
 {"path":"cerca-lavoro-glarona/rettungssanitaterin-rettungssanitater-con-o-ohne-wb-expertin-experte-anasthesiepflege-m-w-d-solothurner-spitaler-soh-olten/","hash":"3795be6d4b147cc89ad062818df5413758fc7bc1cc60c03050935c931dc33996"}
 {"path":"cerca-lavoro-glarona/reumatologia-medico-senior-kantonsspital-winterthur-ksw-winterthur/","hash":"d6d96e00546a9b5edbc435407df5de2e9536bdb811c862559669409669286655"}
@@ -5463,7 +5463,7 @@
 {"path":"cerca-lavoro-glarona/specialista-in-tecnologia-del-riscaldamento-centralizzato-tutti-bkw-balsthal/","hash":"ac56d0a1a5cf964bcb00ca066d401f8a94df9835ad8c66e767e443bd9299dec2"}
 {"path":"cerca-lavoro-glarona/specialista-infermieristica-specialista-in-allattamento-focus-oncology-kantonsspital-winterthur-ksw-winterthur/","hash":"f3e975177d1c635a43bba5ab10053a7e0fe47377a3b33fc8be51a5de91970ba6"}
 {"path":"cerca-lavoro-glarona/specialista-infermieristica-specialista-in-allattamento-imc-lindberg-kantonsspital-winterthur-ksw-winterthur/","hash":"bc1c30b434899dee5be49eb705ece771f247c8a8de87106497d20aa40bdbf64a"}
-{"path":"cerca-lavoro-glarona/specialista-infermieristico-dipl-hf-m-p-d-gesundheitszentrum-fricktal-rheinfelden/","hash":"c7b2141925e15294569343e98fba3226d5b9544bc2a22f06ad237f85d0af0021"}
+{"path":"cerca-lavoro-glarona/specialista-infermieristico-dipl-hf-m-p-d-gesundheitszentrum-fricktal-rheinfelden/","hash":"173d5b3fba4dc54456a3af745ca87f7726b72a5347bbf5e895ceab357811444c"}
 {"path":"cerca-lavoro-glarona/specialista-infermieristico-qualificato-hf-fh-dipartimento-132-spital-zofingen-zofingen/","hash":"a65ca45e11286baa0bcc4e0e32ecfa21564ea41c405cda0eff5e2a60c3c51957"}
 {"path":"cerca-lavoro-glarona/specialista-infermieristico-qualificato-hf-fh-kiz-psychiatrische-universitatsklinik-zurich-zurich/","hash":"78fd561b73cf7f41130d84053cf0ea8dac26b2a939d7e20e7cb9b897b9519e54"}
 {"path":"cerca-lavoro-glarona/specialista-infermieristico-qualificato-hf-fh-klinik-sonnenhalde-riehen/","hash":"77b488d3c48111f22e9eb564e6d38b6e36059b4e9aad936440e87222f8a13339"}
@@ -5542,7 +5542,7 @@
 {"path":"cerca-lavoro-glarona/stage-per-assistente-a-alla-salute-efz-m-f-a-con-inizio-nel-2027-kliniken-valens-gais/","hash":"e56644b53130bb7daa10061d954e221d8bf0fd5e572163180ab907d7d4a25163"}
 {"path":"cerca-lavoro-glarona/stage-per-assistente-a-di-salute-efz-m-f-a-con-inizio-nel-2027-kliniken-valens-walzenhausen/","hash":"33942bcdf55b214c3dcb9512fab2dc900a2a46d10e06f03dfe679774479c1db8"}
 {"path":"cerca-lavoro-glarona/stage-per-diploma-expert-in-nursing-emergency-nds-hf-per-diploma-expert-in-nursing-emergency-nds-hf-con-inizio-nel/","hash":"c2d27cb6a58e9efb1db230bd7d0ad48945a6e20baed9c6597f4f1e349aaa168f"}
-{"path":"cerca-lavoro-glarona/stage-per-diplomato-in-infermieristica-hf-m-f-d-100-klinik-im-hasel-gontenschwil/","hash":"8ebc04a3d9131ea2cb8240eeba93270ef4d5e7e3c5af2d0e8cbc5ec269e865f6"}
+{"path":"cerca-lavoro-glarona/stage-per-diplomato-in-infermieristica-hf-m-f-d-100-klinik-im-hasel-gontenschwil/","hash":"36dd064a8029cb41945dca67eb99136b65b11876a195833317e83bea02df937d"}
 {"path":"cerca-lavoro-glarona/stage-per-esperto-a-di-cure-intensive-nds-hf-w-m-d-60-100-kantonsspital-uri-altdorf/","hash":"f84a16bfaf3aa498434784fcd1f13244490a7a3aeac7001389f840ff2c1e5a2f"}
 {"path":"cerca-lavoro-glarona/stage-per-fisioterapia-area-acuta-luzerner-kantonsspital-luks-luzern/","hash":"501eeebc2c16237cb680e7ed13a8bc401c9607db72b302c9e99d909af95bebb4"}
 {"path":"cerca-lavoro-glarona/stage-per-fisioterapia-ergoterapia-luzerner-kantonsspital-luks-wolhusen/","hash":"f2f4c3f95eb46b35d025bd0a36c90e7dd27d4ac31c49b227751bb9e58945f1ec"}
@@ -5671,7 +5671,7 @@
 {"path":"cerca-lavoro-glarona/stv-rayonleiter-in-hausbakerei-coop-genossenschaft-langenthal/","hash":"30a745e5a03290d3a461a95b64d824e879146272a637f879e25c53eb21354f18"}
 {"path":"cerca-lavoro-glarona/stv-rayonleiter-in-molkerei-eier-kase-coop-frauenfeld-thurgau-eoh7us/","hash":"557b111df4775ca6902306e97aef6b66d2b8dbb54ffd307c749212b19cbaafe8"}
 {"path":"cerca-lavoro-glarona/stv-responsabile-distributionsgebiet-entwicklungsprogramm-avanti-die-schweizerische-post-ostermundigen/","hash":"3058728d0139e5f602e3773f541fcf1a690b16f9496e9f4489b8d34981e616b3"}
-{"path":"cerca-lavoro-glarona/stv-station-manager-80-100-reparto-interdisciplinare-sro-ag-spital-region-oberaargau-langenthal/","hash":"e7794742d4800882d0cb61468aedb25b50ddde3b386714914974912d1165e628"}
+{"path":"cerca-lavoro-glarona/stv-station-manager-80-100-reparto-interdisciplinare-sro-ag-spital-region-oberaargau-langenthal/","hash":"81c1e455c2c5023f10714c4ed047b32fa67d6af556253b8aebed0b999542f33c"}
 {"path":"cerca-lavoro-glarona/sub-assistente-2026-hoch-health-ostschweiz-uznach/","hash":"39800036df604a55cdf7f2195f0905d07dcf2bb118dd0fb0fb0e61610c5c7a8f"}
 {"path":"cerca-lavoro-glarona/sub-assistente-2026-hoch-health-ostschweiz-wil/","hash":"592cf1a8061e7d5e4b59bf48f43fdfbf9845659793ba73f9f76187d9cbbf5a3e"}
 {"path":"cerca-lavoro-glarona/sub-assistente-2028-hoch-health-ostschweiz-uznach/","hash":"39a125daba831b708bcb7eda58a6421469810603ab86eccf7d62249f92a0e9fa"}
@@ -5688,7 +5688,7 @@
 {"path":"cerca-lavoro-glarona/supporto-di-vendita-a-80-100-helsana-ticino/","hash":"8fdc6d6b673998be2210da9b51fbcfb695aa68eeb47911a22786d08a85d1b32f"}
 {"path":"cerca-lavoro-glarona/supporto-ict-in-universitat-zurich-zurich/","hash":"9b38f2add117845a4b8a4f28f35667e75459949bd224f52faa365128b1cbdbd0"}
 {"path":"cerca-lavoro-glarona/supporto-specialistico-stv-stadt-zurich-zurich/","hash":"46c63b6d12fbe9cfc72738d6893b9ec83e4e8c9d4dd226267baa7254e3bb0161"}
-{"path":"cerca-lavoro-glarona/supporto-tecnico-per-la-produzione-h-f-rolex-geneve/","hash":"aae3da49bba8d82aa168cb9f976bf92fbc4e195d1d99d7d24c7d53c85546ae39"}
+{"path":"cerca-lavoro-glarona/supporto-tecnico-per-la-produzione-h-f-rolex-geneve/","hash":"0a4f1cc6beb25e009aea297a69748e491dca6d84bec393016134439a64054377"}
 {"path":"cerca-lavoro-glarona/supporto-tecnico-strategico-e-di-progetto-roche-basel/","hash":"d10e20284f3738f9be998f490b2d8e8a4e1b226aff18b7bf081205cabd495db6"}
 {"path":"cerca-lavoro-glarona/sviluppatore-prodotto-m-w-d-hugli-nahrmittel-ag-steinach/","hash":"c27721c80dc75332febd0777b0ce62bfc82f2a7300d0015d0f278066a7b55a19"}
 {"path":"cerca-lavoro-glarona/sviluppo-infermieristico-medicina-geriatrica-spital-bulach-bulach/","hash":"9fe29e0f9a0ce919953941136cc35dfbf86ca8d4de8589bfce3b1a5aada7993f"}
@@ -5816,7 +5816,7 @@
 {"path":"cerca-lavoro-glarona/tecnico-di-laboratorio-qc-fase-iniziale-100-bachem-ag-bubendorf/","hash":"554a20b3ce9561c2a6d5e0e010cad882a0c3033b46b76e28054eabde631720bb"}
 {"path":"cerca-lavoro-glarona/tecnico-di-laboratorio-qc-fase-tardiva-100-bachem-ag-bubendorf/","hash":"6b7564202dd7d9d5ad71ae4ce7e95f3938f6d60eb4ed5131148a5128e86a9d8c"}
 {"path":"cerca-lavoro-glarona/tecnico-di-laboro-r-s-lpps-taps-a-100-bachem-ag-bubendorf/","hash":"938720241952fdc675ad514da85e44a88e739ae03dd1a2ced50130a98cfb3551"}
-{"path":"cerca-lavoro-glarona/tecnico-di-logistica-eventi-m-f-rolex-geneve/","hash":"e17959e965e7f4e977649894b171949a5694c4e32725cf9eb299ad545130ee92"}
+{"path":"cerca-lavoro-glarona/tecnico-di-logistica-eventi-m-f-rolex-geneve/","hash":"4bacaf05ea6c31e98126b2000c6b544dd0f9cc57c48bd3a7260a32da6ed05a7d"}
 {"path":"cerca-lavoro-glarona/tecnico-di-magazzino-produzione-fornitura-m-f-d-100-in-turno-bachem-ag-bubendorf/","hash":"321772f8507cbc2a0ab08c8a469d1ea768d52853fefb05559bf7e763e95e3447"}
 {"path":"cerca-lavoro-glarona/tecnico-di-manutenzione-cnc-medartis-basel/","hash":"542fb3839e3e751385823a4b7782b1fda295de01ba593e4b9265ddba9df217e1"}
 {"path":"cerca-lavoro-glarona/tecnico-di-manutenzione-dell-infrastruttura-h-f-al-100-hopital-riviera-chablais-hrc-rennaz/","hash":"ef3a41e0039eaaf626d0dbe78eae697acaa7bed3613aadb6bd6ab85c9c2cf566"}
@@ -5828,7 +5828,7 @@
 {"path":"cerca-lavoro-glarona/tecnico-di-operazione-hf-o-infermiere-dipl-fa-op-60-100-klinik-gut-ag-flasch/","hash":"ea74fb0d9b97eb37b0031bd5c426b651609c5a608f9210137a79360c789c321a"}
 {"path":"cerca-lavoro-glarona/tecnico-di-produzione-a-turni-a-nuovo-edificio-k-100-bachem-ag-bubendorf/","hash":"31b2177142267509a86b1bf5fc39959a3f7e107a5a9e4f80796bfceca554a44e"}
 {"path":"cerca-lavoro-glarona/tecnico-di-produzione-chimico-farmaceutico-oligonucleotidi-ii-m-f-d-100-bachem-ag-bubendorf/","hash":"f28a9d0d35b54ae5b2614ed4f105efc957cd0480dc1e1ab62320c62c7e0de2c5"}
-{"path":"cerca-lavoro-glarona/tecnico-di-produzione-h-f-rolex-geneve/","hash":"89cedb44794fca55321f052d76be5c966d32ea3eb7e3d4979d8e5008d2b89427"}
+{"path":"cerca-lavoro-glarona/tecnico-di-produzione-h-f-rolex-geneve/","hash":"faeb242c652eb578c655ecf6bb3128ccd3c725ea526f238571055a51be184e2c"}
 {"path":"cerca-lavoro-glarona/tecnico-di-sala-operatoria-m-f-d-80-100-kantonsspital-uri-altdorf/","hash":"1d89bf2613fae24bbd20165703537f89a8044f65572466d02a104a44be186822"}
 {"path":"cerca-lavoro-glarona/tecnico-di-sala-operatoria-ost-80-al-100-hug-geneve/","hash":"6d8b984045adcc204aed7b09f941f29ebcb3013e160b07edcd1fabbb30b8f7a2"}
 {"path":"cerca-lavoro-glarona/tecnico-di-sala-operatoria-sss-a-50-100-kantonsspital-obwalden-sarnen/","hash":"68a9722ca56171ec737c34395c5d8244ee4d711c888bb11705af3029f981a13e"}
@@ -5942,7 +5942,7 @@
 {"path":"cerca-lavoro-glarona/ufficio-consulente-clienti-100-a-wauwil-concordia-wauwil/","hash":"1d60922a52632297fb3b37306a6593461d74ed0c1638c1b4fa922dd226ecfcae"}
 {"path":"cerca-lavoro-glarona/ufficio-postdoc-universitat-zurich-zurich/","hash":"975c0eec44bf6ff1f1fd29246faf284328265c7efaa43146ff29c9aff941236c"}
 {"path":"cerca-lavoro-glarona/ulteriori-centri-di-istruzione-per-al-dipl-expert-expert-emergency-care-nds-hf-a-spital-emmental-burgdorf-langnau/","hash":"c24f60f9dff607ea4488b1f31251a7753c8fda88cfa344136b32c08be900457f"}
-{"path":"cerca-lavoro-glarona/un-aiuto-di-sala-all-80-100-clinique-de-la-plaine-geneve/","hash":"713948d18e285f000ba7853593df92be7a48e2a5029b38f30f826dec07707ddc"}
+{"path":"cerca-lavoro-glarona/un-aiuto-di-sala-all-80-100-clinique-de-la-plaine-geneve/","hash":"83dab59da2f78cb8ef8e4dd8d9b4e6b307457f66e7542637bbbafc83e43836cb"}
 {"path":"cerca-lavoro-glarona/un-assistente-medico-e-dal-60-al-70-in-cdi-reseau-sante-balcon-du-jura-vaudois-rsbj-sainte-croix/","hash":"9efef07467370045d24dc714e5d18f2dc62839b8c040d5433bd32e8a59a9518a"}
 {"path":"cerca-lavoro-glarona/un-assistente-socio-educativo-in-cdi-all-80-institution-de-lavigny-lausanne/","hash":"09f417c7537dd26c158ad3b235e3c1376e21a4853e416ee4c92acc32b4dd6dad"}
 {"path":"cerca-lavoro-glarona/un-avvocato-universitat-zurich-zurich/","hash":"d6c8c4176cc083599b841efd9748553114a818f84fa4a65e09c6b5448c6cce9d"}
@@ -5980,7 +5980,7 @@
 {"path":"cerca-lavoro-glarona/vendita-prodotti-freschi-coop-genossenschaft-baden-d6728d/","hash":"d8702b7a4e911e6d2503de40f634776c23e45fd006b15239a73fa35d7ff9460c"}
 {"path":"cerca-lavoro-glarona/vendita-prodotti-freschi-coop-genossenschaft-gossau/","hash":"0722b733d4ff536134bb9b16a56e7972f9c5d735bf841d3200a23d883698ec93"}
 {"path":"cerca-lavoro-glarona/vendita-prodotti-freschi-coop-genossenschaft-kloten-5cbfc3/","hash":"1c29ff1987dd5a62ef0aa991933aed4146cd1436c1060bb7c2274ea1006c4412"}
-{"path":"cerca-lavoro-glarona/vendita-prodotti-freschi-coop-genossenschaft-neuenkirch/","hash":"44bdd400868f9a57b2e9e21598b260b9b5c8b3e390b28b901224a319e0fa4efe"}
+{"path":"cerca-lavoro-glarona/vendita-prodotti-freschi-coop-genossenschaft-neuenkirch/","hash":"749f18ddc6cb046ede78febe50c90db45bdfe40fe6d81773ea17d4e4bf632681"}
 {"path":"cerca-lavoro-glarona/vendita-prodotti-freschi-coop-genossenschaft-obfelden/","hash":"c5e38a29ead43f26a4af1e4829245c228861520a2f1bafb44f4908c0107aaf69"}
 {"path":"cerca-lavoro-glarona/vendita-prodotti-freschi-coop-genossenschaft-opfikon/","hash":"c7b4cc955bd30230e7a64db27b9bf6744af5f72082e98345fb41cfbfe5e7a7a8"}
 {"path":"cerca-lavoro-glarona/vendita-prodotti-freschi-coop-genossenschaft-schubelbach/","hash":"60e36c47b8bbd78a9ae509d41f3e20ef99b19cf8a56a6682e1d5feb6b050915b"}
@@ -5988,7 +5988,7 @@
 {"path":"cerca-lavoro-glarona/vendita-prodotti-freschi-coop-genossenschaft-winterthur-62bc93/","hash":"bc6688fee93bae7433ca0822f066a8220da3eb344eb9f8f2522c939419c87666"}
 {"path":"cerca-lavoro-glarona/vendita-prodotti-freschi-coop-genossenschaft-winterthur/","hash":"f2770e8634ec572cf829948f7a37f4695bca7a4102ae409abaf4bc63dfc35f51"}
 {"path":"cerca-lavoro-glarona/vendita-prodotti-freschi-coop-genossenschaft-zurich-eecd1a/","hash":"02814ea726685c8f221b1bccce521e99f5c4ab1df54831598add0ced5e3ead19"}
-{"path":"cerca-lavoro-glarona/vendita-prodotti-freschi-coop-genossenschaft-zurich/","hash":"cf8ff49430ac378a23fdc2d55e61d1898975bca895b6c1fc937190eef0629e8c"}
+{"path":"cerca-lavoro-glarona/vendita-prodotti-freschi-coop-genossenschaft-zurich/","hash":"1af667f60e695668b8d77127996e526ee550b53d43e2ba1191f1ac8f5886b4f9"}
 {"path":"cerca-lavoro-glarona/vendite-associate-part-time-40-cartier-zurich/","hash":"7fb4f386ad02d9bd29b01d90003b30a17c604185a4f3a88648d17d60c7920eea"}
 {"path":"cerca-lavoro-glarona/vendite-associate-part-time-8h-landquart-capri-holdings-michael-kors-versace-graubunden/","hash":"ef1a20f68b563c004b44677187923f0904e56e6d90f1eec57c78bb52c5924e20"}
 {"path":"cerca-lavoro-glarona/vendite-associate-pt-16h-michael-kors-capri-holdings-michael-kors-versace-graubunden/","hash":"2d40805aed4a22e5652376bbfa6a9d8ac68f01cf95a2d6dcda5157bba4fd8ac0"}
@@ -6008,7 +6008,7 @@
 {"path":"cerca-lavoro-glarona/venditore-a-cassa-servizi-coop-genossenschaft-kleinandelfingen/","hash":"123ca262a1856df10195429ffcd9ad167a60710c8df689c8faff5cb1f6971c56"}
 {"path":"cerca-lavoro-glarona/venditore-a-cassa-servizi-sostituzione-estiva-coop-genossenschaft-munchenbuchsee/","hash":"9a2bbb3ede61aa6fcbb8eebee63a982fdaf622b47afbcb0c6edd91c815fd1d30"}
 {"path":"cerca-lavoro-glarona/venditore-a-del-reparto-carne-pesce-genossenschaft-migros-zurich-meilen/","hash":"3fb69cbd70e272de7196e7fd959190d1350f06fc78d761789e60dd92f515ee0b"}
-{"path":"cerca-lavoro-glarona/venditore-a-denner-ag-frauenfeld/","hash":"749cb601f7fc7ef22c52f49787f586156f18db28622ec47b598c1a0963a35e83"}
+{"path":"cerca-lavoro-glarona/venditore-a-denner-ag-frauenfeld/","hash":"181bfd8de1bf5e91bac4bd3520f70f79fb1e1acb5706ca3307ba5de77604a441"}
 {"path":"cerca-lavoro-glarona/venditore-a-denner-ag-huttwil/","hash":"814519f63da8d59420b9599f778029884a1b56c77af99c619b90306e6fe08c12"}
 {"path":"cerca-lavoro-glarona/venditore-a-do-it-jumbo-division-der-coop-genossenschaft-glarus/","hash":"a6b9ae2f5b5b7990a0806113be97fd33df77b852e9e4a58d57a5fa4c5961f73d"}
 {"path":"cerca-lavoro-glarona/venditore-a-do-it-jumbo-division-der-coop-genossenschaft-winterthur/","hash":"b87061c457cd2b775847c1aada0b5bf4f25029043eeec7e106b495e6e11d5553"}
@@ -6017,7 +6017,7 @@
 {"path":"cerca-lavoro-glarona/venditore-a-in-rete-localsearch-landquart/","hash":"946d06bae1fe3b56fe4dfcdfbf9c5b8e71f86a3155286670be9ab6973c975e41"}
 {"path":"cerca-lavoro-glarona/venditore-al-banco-carne-e-pesce-genossenschaft-migros-zurich-stafa/","hash":"040753b48e2b4eb5d20f7637e33afe1be89091e80ed1822a8a5d635eaa5be1bf"}
 {"path":"cerca-lavoro-glarona/venditore-al-banco-della-carne-genossenschaft-migros-zurich-bassersdorf/","hash":"fde5889b6f9e07924d7ad99757126480b5344f93394e1155db9c78c65b2a3111"}
-{"path":"cerca-lavoro-glarona/venditore-al-banco-della-carne-genossenschaft-migros-zurich-pfaffikon/","hash":"cfe379305f0183c5ec9dc0e90dbcb1fc0a8c3797e82433720f1c20f6edc66aeb"}
+{"path":"cerca-lavoro-glarona/venditore-al-banco-della-carne-genossenschaft-migros-zurich-pfaffikon/","hash":"fee354e40477d621d198bfc5eaf6636f937bd84ff4937f18a37f7524c431ae90"}
 {"path":"cerca-lavoro-glarona/venditore-bici-tecnico-officina-m-f-contratto-orario-70-delemont-decathlon-delemont/","hash":"18cbde125923badee0c9cc504313303990a907c07b042fcb799dbc7e7e37c513"}
 {"path":"cerca-lavoro-glarona/venditore-denner-ag-arlesheim/","hash":"55f1262319554a0333dfe8271fb8b0a469f169e4a2105f50ddd9b95a95ab0605"}
 {"path":"cerca-lavoro-glarona/venditore-denner-ag-basel-15d39b/","hash":"4b32beb5a6ce9ae631af7e7db717f1601360f72687a5bf09791b29aa1e6a8168"}
@@ -6036,7 +6036,7 @@
 {"path":"cerca-lavoro-glarona/venditore-denner-ag-widnau-0b5ac8/","hash":"066e4a2e217bebb8223fdd6a09548a259290c5b98c1d99bbf0da3e1c93935f3e"}
 {"path":"cerca-lavoro-glarona/venditore-denner-ag-zug/","hash":"66f75fe0926d8e6ffa93f255f1ee3866dce8482e276d19685367dc96962bda82"}
 {"path":"cerca-lavoro-glarona/venditore-denner-kappel-am-albis/","hash":"45d5550e5f2ffd06bc35f92d4cd92cbae85a2a0f3577dbf87a280d783aabd106"}
-{"path":"cerca-lavoro-glarona/venditore-denner-zurich/","hash":"3b9f051d165e3605b7696592f5b9cbb0880a8c447b56172e1c0ee15531fc2db9"}
+{"path":"cerca-lavoro-glarona/venditore-denner-zurich/","hash":"841f7014ecca87bff5551b945ab4724b6596b674f6ea0ea838f4fab488aaeb84"}
 {"path":"cerca-lavoro-glarona/venditore-di-carne-servito-nel-salario-orario-genossenschaft-migros-luzern-luzern/","hash":"eab5b7e1a6a2fe5998f0883245f53c6977ab17295db3a7cb78cf1c7dfd33d671"}
 {"path":"cerca-lavoro-glarona/venditore-di-carni-genossenschaft-migros-luzern-horw/","hash":"cb539cff44e6819276e141624c01876cdd4ff384515513379a005d07f9e4044e"}
 {"path":"cerca-lavoro-glarona/venditore-di-fiori-assistente-clienti-genossenschaft-migros-luzern-kriens/","hash":"5e874163259a1c75103de8947067114d85b9b56fcb5124e69dbed3aa9e9df8f9"}
@@ -6048,7 +6048,7 @@
 {"path":"cerca-lavoro-glarona/venditore-di-prodotti-freschi-coop-genossenschaft-biberist/","hash":"61e46b523f6118b443171c0771ee2b309ed3c386882a273c46993bf6754e54ca"}
 {"path":"cerca-lavoro-glarona/venditore-di-prodotti-freschi-coop-genossenschaft-dietikon/","hash":"fe02435bd3f39598b2c35ea9b4bb3085a28b57a9a39f2fac928ab5bd42fef56f"}
 {"path":"cerca-lavoro-glarona/venditore-di-prodotti-freschi-coop-genossenschaft-dietlikon/","hash":"cd60e345b81c3867f02a7034aaa5dcfed4a4498ec7db653d8cada3880a72b4a3"}
-{"path":"cerca-lavoro-glarona/venditore-di-prodotti-freschi-coop-genossenschaft-luzern/","hash":"a92084c2a77e40fa21dc9007ad80a9eddfe3586d4d7e2fa20c466a2e65b46925"}
+{"path":"cerca-lavoro-glarona/venditore-di-prodotti-freschi-coop-genossenschaft-luzern/","hash":"e44f304659802209b18e4660e027600f133a659b66e7e4ab2176d98cb510db0a"}
 {"path":"cerca-lavoro-glarona/venditore-di-prodotti-freschi-coop-genossenschaft-wattenwil/","hash":"d4dc3845bf76268df6797d32b8cfff8c9c1e96641929c8f9cb981ec669f2b430"}
 {"path":"cerca-lavoro-glarona/venditore-di-prodotti-freschi-di-produzione-coop-genossenschaft-winterthur/","hash":"5db97205d2ca69c0be3fc9c7fe3fafaf8e9a7355e8e80425652adb0a1379e97e"}
 {"path":"cerca-lavoro-glarona/venditore-di-prodotti-freschi-latticini-coop-genossenschaft-gebenstorf/","hash":"be595592228d159ba790b3219001bf3b2a319b966d7bbea8444cdd2ff506ea9c"}
@@ -6079,10 +6079,10 @@
 {"path":"cerca-lavoro-glarona/venditore-in-casse-servizi-coop-genossenschaft-steinhausen/","hash":"4bb17c7f5f2dfe3f043bd7d1cbc357ff0804a08efb499031bb901f62617e5fda"}
 {"path":"cerca-lavoro-glarona/venditore-in-casse-servizi-jumbo-arbon/","hash":"a1c1373a7cc09c769fef10f152cbf432aa8ddd66c68429b4ae7f630295c4c76f"}
 {"path":"cerca-lavoro-glarona/venditore-in-contanti-servizi-aiuti-agli-studenti-coop-genossenschaft-st-gallen/","hash":"984ce7e5cbec0dbef5feba7283492e7024ef8b54330800aba8e37fef1da5d2db"}
-{"path":"cerca-lavoro-glarona/venditore-in-contatore-di-carne-pesce-genossenschaft-migros-zurich-zurich/","hash":"084f97c156651596a8c638e1ab9ad587002201699eab90e7bc191688c3c3c4df"}
+{"path":"cerca-lavoro-glarona/venditore-in-contatore-di-carne-pesce-genossenschaft-migros-zurich-zurich/","hash":"6bed42071bfef2f65e95199395e55b1e5d7982b7f23e6dae43af7a459b174e24"}
 {"path":"cerca-lavoro-glarona/venditore-in-fiori-kiosk-coop-genossenschaft-riehen/","hash":"581d55fbe38cfafaf8a37d4ed9150b328de4bb2a211a14d655f3e706141459e3"}
 {"path":"cerca-lavoro-glarona/venditore-in-food-bevande-coop-genossenschaft-altendorf/","hash":"ff4906ade6326ccaf6ae1282b8a02bd34f5f575c329cb64fe98829e9e6260eff"}
-{"path":"cerca-lavoro-glarona/venditore-in-food-coop-genossenschaft-aarau/","hash":"8b3837ddb1922b7098f4cc06ba09b63ad46e2e644e208940baa3065995bba77b"}
+{"path":"cerca-lavoro-glarona/venditore-in-food-coop-genossenschaft-aarau/","hash":"2c005fb9f2f3ba6a9acea70ae434b4780965ce35e100051131ca87c1aaab4830"}
 {"path":"cerca-lavoro-glarona/venditore-in-food-coop-genossenschaft-adliswil/","hash":"ef6693b9df93e3a46120291c1240d905370490455f6eac1b5fce6bdc5cdabd09"}
 {"path":"cerca-lavoro-glarona/venditore-in-food-coop-genossenschaft-andermatt/","hash":"bb719c2c590d144bea2522aca2a2017f47017be393d15b7a0913b5fbf8074309"}
 {"path":"cerca-lavoro-glarona/venditore-in-food-coop-genossenschaft-biel/","hash":"b378183a85464cced29bb4aaf800f74628bb733c7f712fb9720142b58046ebf4"}
@@ -6192,7 +6192,7 @@
 {"path":"cerca-lavoro-glarona/verkaufer-in-food-auch-moglich-per-studentenaushilfe-coop-laupen-bern-poi756/","hash":"8d6c9e1f0f0ebfefb80f238b5a26056faaac7564eec24e0d5c2e670e6557ff0b"}
 {"path":"cerca-lavoro-glarona/verkaufer-in-food-coop-city-st-gallen-sankt-gallen-457ll7/","hash":"ad86537312a9511c64cd8256bbcfcf01b0fe1f433e7c58458e867649344abb37"}
 {"path":"cerca-lavoro-glarona/verkaufer-in-food-coop-genossenschaft-basel-stadt-4bbd6g/","hash":"4d1e88a22f2282d90f2782ba7fb6de65ef49fb16cbfba88cb1262d1b93bbc68f"}
-{"path":"cerca-lavoro-glarona/verkaufer-in-food-coop-genossenschaft-bern/","hash":"cc66a48dcbb92dfee8bd34c4cd8fdc8e21b978c1b6bbc6dcd879608a58443107"}
+{"path":"cerca-lavoro-glarona/verkaufer-in-food-coop-genossenschaft-bern/","hash":"d56ac039a40497dfc38ce29079d5cb991e33793f95fb90727e848ad5b7c5a7a5"}
 {"path":"cerca-lavoro-glarona/verkaufer-in-food-coop-genossenschaft-reinach/","hash":"5b421fb03d62d660c30832840b6d059916a9d298db636977bd76a65f69275bb2"}
 {"path":"cerca-lavoro-glarona/verkaufer-in-food-coop-genossenschaft-winterthur/","hash":"1b2f652e66d1ed5f827da5439efcfa347a2da776f1b71f0cba321c8516f68d82"}
 {"path":"cerca-lavoro-glarona/verkaufer-in-food-coop-genossenschaft-zurich/","hash":"e322c847cef8e8e98c72db18dc873ff993c8d5a99cab197478eccbd8a451c978"}
@@ -6211,10 +6211,10 @@
 {"path":"cerca-lavoro-glarona/verkaufer-in-frischprodukte-coop-genossenschaft-zurich/","hash":"08a44b9b31e5d5b242e93e250ebb10e303eb13dcdd6585a5b4fb10a4285437ee"}
 {"path":"cerca-lavoro-glarona/verkaufer-in-frischprodukte-coop-sennwald-sankt-gallen-bzl83u/","hash":"57b49d5f8625314472888daf38dec60b9dc3c78dcaefe07417f7685497e062ee"}
 {"path":"cerca-lavoro-glarona/verkaufer-in-frischprodukte-fruchte-e-gemuse-coop-emmen-luzern-8fz6p5/","hash":"c7c9f086cb51b77674e9d9c9cef39d36a18ab058e9074bd784453cf86784fde3"}
-{"path":"cerca-lavoro-glarona/verkaufer-in-frischprodukte-molkerei-e-convenience-coop-genossenschaft-zurich/","hash":"55d77683275823c0f4165e812e57e87f5196248428d10fd01eea05096aa4584a"}
+{"path":"cerca-lavoro-glarona/verkaufer-in-frischprodukte-molkerei-e-convenience-coop-genossenschaft-zurich/","hash":"17e9dd8fe38c5a2a441f546f91cfe8a2d241ac251964e2d9cde26d12bf07a8ea"}
 {"path":"cerca-lavoro-glarona/verkaufer-in-frischprodukte-molkerei-e-convenience-coop-zurich-fc0m9o/","hash":"9a9d963a56e94db900900218eca717cb69d03e9f2c57656ab4e5102c7672db8d"}
 {"path":"cerca-lavoro-glarona/verkaufer-in-gartenmaschinen-e-bewasserung-hornbach-affoltern-am-albis/","hash":"ac670793c18ab06e3ae992917d3e1a5115d54f41ee67cb999beb33f0b433cb2e"}
-{"path":"cerca-lavoro-glarona/verkaufer-in-kassen-services-coop-genossenschaft-zurich/","hash":"a98858ac8cc5267d39c094f7e6daf97bbe5cde685cb058b53239e7f17f8ac7a4"}
+{"path":"cerca-lavoro-glarona/verkaufer-in-kassen-services-coop-genossenschaft-zurich/","hash":"021280111a7ecef85dbd5b340586a9633e6c92b8e5066574db00f866099e1a2e"}
 {"path":"cerca-lavoro-glarona/verkaufer-in-kassen-services-jumbo-division-der-coop-genossenschaft-thalwil/","hash":"059d360b6349343ede946bfdb6f36600f551c1ffd1b908eda7274ee22e9c9c75"}
 {"path":"cerca-lavoro-glarona/verkaufer-in-kassen-services-jumbo-volketswil/","hash":"6c022aa2adaaa3baf8ec74a4a9bb476ec26ca54e592cabebea511f1744b30593"}
 {"path":"cerca-lavoro-glarona/verkaufer-in-nonfood-coop-degersheim-sankt-gallen-q96wi7/","hash":"cd32b5265b17fe037f6a6e18a0652e0e6162920c18c650ae0e4b0c913cf505dd"}
